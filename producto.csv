@@ -1,0 +1,1001 @@
+codigo_producto,codigo_proveedor,codigo_catedoria,nombre,abreviatura,marca,precio,estado,descripcion
+1,96,34,Sea Bass - Fillets,iiq,GJO,$38.47,false,Rad electrocoag-rect les
+2,76,40,"Mushroom - Oyster, Fresh",mmw,EME,$61.43,true,Pubiotomy to assist del
+3,68,24,Wine - Bouchard La Vignee Pinot,eat,EQR,$93.79,false,Pros rep ventrc def-clos
+4,86,28,Island Oasis - Peach Daiquiri,buw,PUK^,$23.28,false,Blepharorrhaphy
+5,83,24,"Sparkling Wine - Rose, Freixenet",jgu,CVLY,$89.47,false,Bone graft to face bone
+6,83,30,Yeast Dry - Fleischman,exd,BRC,$27.73,true,Arth/pros rem wo re-shld
+7,94,30,Bread Foccacia Whole,mqn,NPTN,$45.56,false,Repair of rectum NEC
+8,70,42,Sour Puss Raspberry,uju,NVO,$70.37,true,Preauricular sinus excis
+9,71,26,Tea - Jasmin Green,mgr,GWRE,$77.55,true,Open ureteral biopsy
+10,99,37,Bread - Pita,xiw,RVLT,$50.29,true,Opn bi dr/in ing hrn NEC
+11,92,31,Pastry - Apple Muffins - Mini,lts,OPY,$53.78,false,Endosc destruc anus les
+12,95,42,Couscous,lih,PAGP,$74.15,true,Lysis cortical adhesion
+13,96,32,Beef - Ground Medium,kxd,AYR,$91.21,false,Imp/rep lead lf ven sys
+14,86,26,Coffee - Cafe Moreno,uqe,TTEC,$43.97,true,Remove impl dev-humerus
+15,71,43,"Appetizer - Spring Roll, Veg",dse,MGNX,$69.56,false,Ins/repl single pul gen
+16,82,40,Lamb Leg - Bone - In Nz,zhi,NS,$38.00,false,Insert nasopharyn airway
+17,71,25,Oil - Cooking Spray,adz,PBPB,$6.15,true,Removal of cement spacer
+18,80,26,Coffee Cup 8oz 5338cd,qfi,AAON,$16.92,true,Imp/repl brain pulse gen
+19,80,40,Creme De Cacao Mcguines,syd,CAB,$49.37,false,Replace gast/esoph tube
+20,87,36,Chervil - Fresh,yxv,BELFA,$44.48,false,Accessory-facial anastom
+21,90,30,"Lamb - Pieces, Diced",ova,SBBC,$64.19,false,Replantation of penis
+22,71,34,Worcestershire Sauce,qmd,ITG,$75.26,false,Posterior rect resection
+23,89,48,Mace Ground,zis,HIX,$71.28,true,Allergy immunization
+24,70,25,Bread Crumbs - Panko,bcd,TSS,$18.97,true,Opn reduc disloc-shouldr
+25,99,28,Coffee Cup 16oz Foam,oep,FMY,$69.49,true,Access-hypogloss anastom
+26,90,47,"Wine - Red, Marechal Foch",obz,TVPT,$8.09,false,Lacrim passage incis NEC
+27,91,29,Paper Towel Touchless,quc,CIM,$4.23,false,Vectorcardiogram
+28,93,26,Beef Flat Iron Steak,qor,OBCI,$21.18,true,Contrast x-ray of sinus
+29,87,26,Anchovy In Oil,uqu,MO,$30.74,true,Total gastrectomy NEC
+30,82,45,Shrimp - 31/40,hpu,ISIG,$60.76,false,Instrument delivery NOS
+31,91,29,Sage Derby,oqh,ANW,$27.17,false,Pancreatic heterotranspl
+32,92,43,Initation Crab Meat,ihy,BBOX,$7.55,true,Ins spinal fusion device
+33,92,27,Durian Fruit,fcs,CMFN,$76.14,false,Temporary ileostomy
+34,75,46,Spinach - Baby,zqo,LBF,$4.12,true,Vena cav angiocardiogram
+35,86,28,Cranberries - Frozen,pgp,GPIAU,$57.62,true,Tympanostomy tube remove
+36,95,42,Cloves - Ground,qwa,HLIT,$22.06,false,Imp epiretinal prosth
+37,74,34,Miso - Soy Bean Paste,alz,PVBC,$80.89,true,Periph nerve div NEC
+38,89,36,"Stock - Veal, Brown",lqb,ASV,$2.78,true,"Endo emb hd/nk,bare coil"
+39,91,31,"Tart Shells - Savory, 3",dbm,NVTR,$27.42,false,Excis hand tend for grft
+40,81,39,Longos - Grilled Chicken With,ayb,CGIX,$15.02,false,Rt/left heart card cath
+41,99,25,Eggplant Italian,mop,WHG,$37.47,false,Hip arthroscopy
+42,67,43,Tomatoes - Roma,doh,UIS,$64.67,false,Intravenous pyelogram
+43,70,45,Boogies,uor,ULTA,$37.22,false,Salpingo-oophorostomy
+44,98,33,Dried Figs,zmf,ALRM,$5.81,true,Rev hip repl-acetab comp
+45,66,42,Sauce - Chili,czl,NS^B,$90.40,true,Suture of pharyngeal lac
+46,68,42,Cheese - Le Cru Du Clocher,gtm,USEG,$45.43,false,Culture-lower urinary
+47,82,47,Ice Cream - Fudge Bars,lan,JPM^B,$89.72,false,Gastrostomy closure
+48,68,48,Soup - Campbells - Chicken Noodle,mgi,CAMP,$41.53,true,Intermitt skel traction
+49,93,28,Lettuce - Baby Salad Greens,lhc,ABCO,$33.69,true,Oth arthrotomy-ankle
+50,67,45,Lettuce - Spring Mix,fut,PFSI,$8.05,false,Lacrim passage incis NEC
+51,81,48,Tomatoes - Cherry,kqf,CMTL,$17.00,false,Remov thorax sutures
+52,76,37,Parsley Italian - Fresh,iib,OFG,$27.83,true,Sm bowel endoscopy NEC
+53,83,38,Lamb - Shanks,ato,VYGR,$55.31,false,Oth dx proced-femur
+54,79,46,Pop Shoppe Cream Soda,xlb,KRA,$59.74,false,Local gastr destruct NEC
+55,96,46,Beans - Kidney White,nqa,GGT^B,$95.72,false,Foot & toe arthroscopy
+56,95,35,Bay Leaf Fresh,eat,KALV,$44.31,false,Anterior chamber op NEC
+57,93,45,Energy - Boo - Koo,ehf,VNOM,$43.36,true,Tracheal injection
+58,78,28,Wine - Prem Select Charddonany,jzn,SSBI,$31.19,true,Skel xray-pelvis/hip NEC
+59,89,46,"Lemonade - Black Cherry, 591 Ml",lpz,HGV,$15.45,false,Int insert pacemak lead
+60,95,42,Sugar - Palm,qyu,LWAY,$13.59,false,Other sympathectomy
+61,79,24,Lettuce Romaine Chopped,zet,CYH,$70.96,false,Intest stoma closure NOS
+62,94,39,Muffin - Blueberry Individual,wfy,GEL,$4.26,true,Fit lo arm/hand prosthes
+63,69,31,Onions - White,cnr,PER,$14.65,false,Bartholin gland marsup
+64,74,47,Tofu - Soft,xiu,OIS,$80.96,false,Magnet remove FB lens
+65,98,30,"Lamb - Whole Head Off,nz",zqc,AIV,$4.41,true,Activ musculosk exer NEC
+66,74,40,"Syrup - Monin, Amaretta",kyu,HUM,$47.13,false,Rev stapdec w incus repl
+67,68,25,Dasheen,rhu,CTV,$34.16,false,Hemorr contrl post T & A
+68,76,38,Pork Loin Cutlets,bkt,SYK,$34.70,false,Insert aqueous drain dev
+69,91,45,Juice - Ocean Spray Cranberry,fcr,TDC,$61.61,true,Endosc lg bowel thru st
+70,75,43,The Pop Shoppe - Lime Rickey,sgo,CAAS,$73.01,true,"Repl pacem w 1-cham, non"
+71,73,29,Bread - Mini Hamburger Bun,ebk,DXB,$66.20,true,Eye/orbit inj repair NEC
+72,74,27,Grapes - Red,cso,TER,$77.94,false,Orbital exenteration NEC
+73,83,35,Phyllo Dough,iqv,VUSE,$26.70,false,Thorac total exc thymus
+74,78,29,Bread - Bistro Sour,qao,OPGNW,$84.64,true,Pyloromyotomy
+75,98,32,Soup - Campbells - Tomato,xoj,TCBIL,$9.03,true,Limited rhinoplasty
+76,87,32,Coconut - Whole,qut,AMPH,$6.69,false,Total cystectomy NEC
+77,83,28,Huck White Towels,mww,BANF,$54.47,true,Cde for obstruction NEC
+78,96,41,Eggwhite Frozen,tzk,RKDA,$25.97,true,Vaginal repair NEC
+79,96,33,Beef Flat Iron Steak,jzm,PRFZ,$96.80,true,Emphysema bleb plication
+80,80,28,Wine - Sogrape Mateus Rose,zsx,NNC,$96.00,false,Neurectasis
+81,91,25,"Pork - Ham, Virginia",spp,ARDC,$77.28,true,Vaginal construction
+82,83,37,"Veal - Chops, Split, Frenched",fln,ETP,$96.44,false,Vaginal biopsy
+83,96,26,Coffee - Flavoured,tks,UAN,$19.60,false,Remov vas deferens valve
+84,79,30,"Juice - Grapefruit, 341 Ml",lnn,RIV,$95.20,false,Endosc lg bowel thru st
+85,80,43,Ham - Cooked,dab,TRMR,$46.37,true,Lap remove rem ova/tube
+86,78,33,Mussels - Cultivated,hyt,LNDC,$38.17,true,Bact smear-lymph system
+87,71,30,Pepper - Chilli Seeds Mild,asu,MHK,$29.25,false,Blepharorrhaphy
+88,87,32,"Lentils - Green, Dry",wnf,MCRI,$55.70,true,Brain lobectomy
+89,95,25,Butter Sweet,hft,MUE,$41.93,true,Testicular operation NEC
+90,95,25,Fork - Plastic,nbu,ARI^A,$24.27,true,Hysteroscopy
+91,86,30,Apron,ewq,LPG,$50.24,false,Perc ins intracran stent
+92,84,32,Bread Ww Cluster,wwz,BCS,$81.06,false,Scleral fistula repair
+93,92,48,"Brocolinni - Gaylan, Chinese",pxf,LBF,$25.23,true,Skin & subq dx proc NEC
+94,67,32,"Chicken - Leg, Fresh",bma,V,$5.42,false,Injection into joint
+95,84,30,Puff Pastry - Slab,wqm,CBSH,$48.90,false,Muscle trnsfr/transplant
+96,93,32,"Pasta - Canelloni, Single Serve",quy,SOL,$5.45,true,"LITT lesn, guide oth/NOS"
+97,95,25,Bread - Olive,erl,STO,$93.02,false,Shorten 1 extraoc musc
+98,67,25,Clams - Canned,nad,UBND,$13.59,true,Oth arthrotomy-shoulder
+99,74,25,"Appetizer - Mini Egg Roll, Shrimp",zgy,ONB,$45.44,true,Electronystagmogram
+100,70,39,"Dill - Primerba, Paste",zbx,MHNB.CL,$32.35,true,Culture-ent/larynx
+101,91,46,Oil - Macadamia,trz,INPX,$14.48,false,Cholangiogram NEC
+102,90,30,"Pasta - Canelloni, Single Serve",fyi,AET,$12.37,false,Therapeutc leukopheresis
+103,70,29,Vinegar - Red Wine,wdc,OLP,$48.63,true,"TRAM flap, free"
+104,90,24,"Yogurt - Banana, 175 Gr",cwe,FCH,$40.74,false,Contrast epididymogram
+105,99,43,"Pork - Back, Short Cut, Boneless",cfe,FII,$62.90,false,Imp/rep lead lf ven sys
+106,80,42,Cheese - Fontina,jrf,KS,$70.51,true,Rem of cor art obstr NEC
+107,85,39,Cheese - Gorgonzola,wvw,CIG,$63.12,false,Ventricl shunt tube punc
+108,73,41,"Lamb - Leg, Bone In",vij,ACTX,$91.45,false,Nephrocystanastomosi NOS
+109,94,40,Wood Chips - Regular,vhg,ARR^B,$93.34,true,Osteoclasis-patella
+110,81,43,Danishes - Mini Raspberry,ids,COE,$49.34,true,Tracheoscopy thru stoma
+111,80,42,Longos - Chicken Wings,ruv,TVC,$77.42,true,Other tendon transposit
+112,82,48,Spice - Peppercorn Melange,mnu,BSAC,$27.59,false,Appl ext fix dev-patella
+113,87,29,Wine - Beaujolais Villages,zds,MEN,$49.69,true,Excise bone for gft NEC
+114,99,48,Squash - Butternut,yfo,BML^J,$33.46,true,Ant nasal pack for epist
+115,70,47,Broom - Corn,owf,EDUC,$46.12,false,Local destruc trach les
+116,77,28,Sage - Ground,ipo,CSIQ,$54.65,true,Blood vessel biopsy
+117,87,30,Cake - French Pear Tart,ifi,G,$2.14,false,Entropion/ectrop rep NEC
+118,90,33,Cheese - Swiss,peg,AUDC,$14.99,false,Oth larynx dx procedure
+119,69,33,Lid Tray - 12in Dome,nlv,CHMA,$65.87,true,Corneal transplant NEC
+120,70,36,Soup - French Can Pea,mmo,GFA,$94.63,false,Oth arthrotomy-elbow
+121,89,39,Nori Sea Weed - Gold Label,bps,NWBI,$6.57,true,App ext fix dev-monoplan
+122,82,37,Salt - Table,fqa,WPPGY,$97.27,true,Sphinct of oddi measure
+123,71,39,Horseradish - Prepared,qhr,VTVT,$43.33,false,Induct labor-rupt memb
+124,89,40,Halibut - Steaks,rnq,C^C,$55.31,true,Endosc control gast hem
+125,78,42,V8 Splash Strawberry Kiwi,zec,EHT,$27.68,true,Exchange transfusion
+126,67,28,Fond - Chocolate,uzf,L,$75.38,false,Suture vulvar laceration
+127,99,47,Wine - Balbach Riverside,pem,PHMD,$22.32,false,Total ureterectomy
+128,73,46,Appetizer - Tarragon Chicken,haw,STB,$39.86,false,Radical glossectomy
+129,85,39,Mangostein,wmh,ORI,$66.69,true,Gastric cooling
+130,86,27,"Tendrils - Baby Pea, Organic",rya,NOMD,$75.53,false,Percutaneous angioscopy
+131,73,33,Muffin Orange Individual,ype,FTI,$10.84,false,Postop revis scl fistul
+132,81,43,Tea - Mint,xbf,FII,$36.83,true,Perc transmyo revascular
+133,69,34,Wine - Vouvray Cuvee Domaine,wlf,EQM,$88.77,false,Contrast arthrogram
+134,84,39,Nantucket - 518ml,pnb,CROX,$65.28,false,Disarticulation of ankle
+135,66,39,Taro Leaves,nti,HSON,$39.81,true,Splenotomy
+136,88,28,Egg Patty Fried,zwe,SCVL,$53.39,true,Occupational therapy
+137,93,45,"Jam - Strawberry, 20 Ml Jar",kte,WOOD,$53.11,false,Joint movement training
+138,75,32,Coffee Caramel Biscotti,rjj,IPHS,$20.88,false,Dx proc fetus/amnion NEC
+139,69,24,Chivas Regal - 12 Year Old,wct,DZSI,$12.50,true,Tooth & gum dx proc NEC
+140,76,38,Pear - Asian,amh,CUBI^D,$76.42,true,Nonexc destruc iris les
+141,80,29,"Pepper - Paprika, Hungarian",nun,CHSCN,$13.15,true,Proximal pancreatectomy
+142,77,35,Pie Shell - 5,eou,EYESW,$73.52,false,Vital capacity determin
+143,82,38,"Asparagus - White, Fresh",ynt,MED,$28.85,true,Electrosurg lid epilat
+144,97,43,Oil - Grapeseed Oil,uwa,SMTX,$72.73,false,Splenotomy
+145,83,41,Bread Country Roll,alh,GRPN,$46.90,false,Opn abdperneal resc rec
+146,79,26,Boogies,rhn,DVMT,$22.35,false,Incision of nose
+147,73,41,Tequila - Sauza Silver,flk,MOS,$10.11,false,Infusion of vasopressor
+148,97,26,Sage Ground Wiberg,bty,ETX           ,$59.08,true,Iris biopsy
+149,73,44,Chambord Royal,mxx,UNIT,$30.45,false,Plastic rep ext ear NEC
+150,79,34,"Asparagus - Green, Fresh",eyl,LGND,$71.22,false,Rem cath cranial cav/tis
+151,71,40,"Juice - Pineapple, 48 Oz",yjh,CLDR,$21.32,true,Muscle thermography
+152,96,38,Eel Fresh,mbb,ENVA,$6.21,true,Contrast myelogram
+153,99,29,Coffee Cup 12oz 5342cd,ros,DERM,$70.02,true,Repair vess w tis patch
+154,92,48,Pepper - Cayenne,wsb,TSU,$84.94,true,Upper limb vessel incis
+155,69,40,Wine - Ej Gallo Sierra Valley,xzv,NEU,$80.89,true,Ptosis rep-fron mus slng
+156,72,25,Ice Cream Bar - Hageen Daz To,klc,LGF.A,$36.67,false,Reattach amputated ear
+157,79,44,"Cookies - Oreo, 4 Pack",pvp,BRC,$34.92,false,C & s-upper urinary
+158,75,47,Muffin - Carrot Individual Wrap,mtf,TERP,$50.37,false,Epididymovasostomy
+159,67,47,Cotton Wet Mop 16 Oz,msq,CRAI,$6.98,true,Abd artery resec w repla
+160,68,41,Lettuce - Boston Bib,dlq,GRAM,$17.55,false,Excis hand tend for grft
+161,87,26,Chives - Fresh,qcr,PH,$55.41,true,Skin & subq incision NEC
+162,72,39,Pie Filling - Cherry,iwg,BIO.B,$20.73,true,Micro exam-blood NEC
+163,86,34,Water Chestnut - Canned,xec,OHGI,$8.93,true,Open robotic assist proc
+164,88,37,"Soup - Cream Of Broccoli, Dry",rnm,NGHCN,$50.20,false,Other tracheal repair
+165,68,26,Shallots,lns,NTEST,$87.67,true,Intest stoma revis NOS
+166,76,27,Table Cloth 90x90 White,vwj,ETJ,$43.20,false,Splenic cyst marsupial
+167,68,40,"Sparkling Wine - Rose, Freixenet",hhk,LDR,$2.50,true,Intraven cholangiogram
+168,76,45,Spice - Chili Powder Mexican,gzy,COF^C,$87.63,true,Cornea reconstruct NEC
+169,89,25,General Purpose Trigger,oon,TUTT,$78.54,true,Incision of anal septum
+170,85,25,Cake - Night And Day Choclate,cbv,PRAN,$16.31,true,Graft reinforce sclera
+171,92,33,Cleaner - Bleach,htf,DSLV,$58.08,true,Cervical dx procedur NEC
+172,84,30,Skewers - Bamboo,mic,CFFI,$18.61,true,Lap res transverse colon
+173,97,44,Bananas,gor,JWN,$71.16,false,Ovarian cyst marsupializ
+174,83,38,Garlic - Elephant,vub,SBNA,$2.34,false,Opn/oth rep tcspd vlv-ts
+175,92,48,Lid Tray - 16in Dome,dtr,BGNE,$35.83,true,Transposition of nipple
+176,74,42,Tilapia - Fillets,cjo,NEE^Q,$8.34,true,Partial pinealectomy
+177,73,40,Cheese - St. Paulin,rmv,IFMK,$13.37,true,Uvula and soft palate bx
+178,67,39,Tea - English Breakfast,sgr,TVE,$56.58,true,Coronary arteriogram NEC
+179,98,43,"Dill - Primerba, Paste",tkj,DRA,$5.10,true,Removal oth vag pessary
+180,92,30,Samosa - Veg,xdb,KEY^I,$76.25,false,Wrist joint biopsy
+181,88,24,Veal - Leg,zpv,OMI,$39.04,true,Electronystagmogram
+182,88,34,Tomato Paste,buw,LABL,$81.76,false,Physical therapy NEC
+183,98,39,Cornstarch,elz,MHO,$28.64,true,Dermabrasion
+184,83,32,Cake - Pancake,qtj,REFR,$46.22,true,Other spinal traction
+185,93,34,Foie Gras,xhi,AHT^D,$1.38,true,Bile duct excision NEC
+186,80,31,Barley - Pearl,fzb,MODN,$37.02,true,Temp-inf xtracap lens ex
+187,67,47,Soup - Cream Of Broccoli,ldt,EVR,$47.08,true,Hemorrhoid cauterizat
+188,82,37,Pork Salted Bellies,oju,PZC,$27.71,false,Salpingo-oophorostomy
+189,83,39,Liquid Aminios Acid - Braggs,rpx,SEP,$31.33,true,Replac m/s immob dev NEC
+190,96,34,Lobster - Live,yas,AKS,$56.34,true,Nonmagnet remove FB lens
+191,88,44,"Liqueur Banana, Ramazzotti",ubl,SYBT,$46.18,false,Noninvas elect stimulatn
+192,76,43,Tea - Vanilla Chai,nna,SKYY,$43.76,false,Peripheral nerve graft
+193,82,48,Pears - Bartlett,txx,SPB           ,$66.76,true,Inject steroid
+194,83,25,"Veal - Chops, Split, Frenched",wwe,LIND,$11.08,false,Shoulder arthroplast NEC
+195,69,24,Cheese - Grie Des Champ,fov,FEX,$44.33,false,Ins d-e stnt sup fem art
+196,80,31,"Sprite, Diet - 355ml",qmr,RCON,$1.28,true,Pancreatic heterotranspl
+197,91,26,Cake - Mini Potato Pancake,ebk,KNOP,$78.49,true,Excision acoustc neuroma
+198,67,30,Fudge - Cream Fudge,uat,KMX,$79.21,false,Micro exam-lowr resp NEC
+199,87,34,"Salsify, Organic",qsa,NTRA,$84.33,false,Repl pacem w dual-cham
+200,73,47,Wine - Chianti Classico Riserva,okh,MAUI,$35.99,false,Carporadial fusion
+201,83,40,Apple - Royal Gala,vbx,INVA,$72.76,false,Total parathyroidectomy
+202,90,48,"Vodka - Hot, Lnferno",ith,ED,$48.41,false,Menstrual extraction
+203,95,26,Pears - Fiorelle,nmc,ALTY,$26.01,true,Remov pancreatic tube
+204,68,37,Shichimi Togarashi Peppeers,ilj,TGLS,$31.41,true,Hand tendon advancement
+205,85,32,"Beef - Tenderlion, Center Cut",eda,CNI,$4.26,false,Nasal function study
+206,79,33,Beef - Texas Style Burger,lwj,NADL,$63.39,false,Open red-int fix finger
+207,71,36,Maintenance Removal Charge,vxc,OMF,$11.03,true,Suture capsul/lig ank/ft
+208,91,37,Wine - Pinot Grigio Collavini,rxa,NRT,$93.90,false,Imp/rep subcue card dev
+209,94,24,Pear - Asian,sex,CNK,$12.74,true,Patellar sequestrectomy
+210,69,32,"Coffee - Beans, Whole",juf,SOJA,$16.22,false,Rem of cor art obstr NEC
+211,79,39,Soup - Campbells Pasta Fagioli,uen,CDXS,$60.92,false,Culture-upper urinary
+212,91,42,Meldea Green Tea Liquor,ark,ZAYO,$18.65,true,Endovas impln grft aorta
+213,73,44,Beef - Top Butt Aaa,lmc,KURA,$46.66,true,Midtarsal fusion
+214,85,28,Pasta - Orecchiette,nvf,AQN,$47.94,true,Spinal x-ray NEC
+215,82,34,Figs,tyn,ABMD,$38.65,true,Lung laceration closure
+216,78,44,Beer - Mill St Organic,mdh,ARQL,$90.29,false,Spinal x-ray NEC
+217,82,34,Table Cloth 90x90 White,xuq,PIM,$54.49,false,Inject bursa of hand
+218,75,48,"Rum - White, Gg White",hhv,PAH,$20.06,true,Cervical sympathectomy
+219,98,32,"Pasta - Lasagna, Dry",rka,HIG.WS,$97.07,true,Thumb reattachment
+220,98,31,Wine - Placido Pinot Grigo,oic,COMT,$59.53,true,"Hip surface, cermc/cermc"
+221,91,47,Tomatoes - Cherry,nfr,CCC,$15.27,true,Testicular repair NEC
+222,70,41,Calaloo,uap,BAC.WS.B,$55.43,true,Thalamus operations
+223,75,46,Wine - Penfolds Koonuga Hill,gvd,GALT,$33.14,false,Caval-pulmon art anastom
+224,69,28,Apple - Northern Spy,ayh,ROLL,$78.32,false,Activ musculosk exer NEC
+225,83,37,Bread - White Mini Epi,ncz,SMBC,$49.18,true,Implt cochlear prost NOS
+226,88,26,"Pork - Bacon,back Peameal",bpm,MRUS,$70.29,false,Endovas repl uns hrt vlv
+227,91,42,Yucca,tlx,BLH,$9.93,true,Skull & brain op NEC
+228,96,29,Lid - 3oz Med Rec,efo,INGR,$20.80,false,Manual assist deliv NEC
+229,98,28,"Lentils - Green, Dry",igq,DRYS,$51.48,false,Transab lg bowel endosc
+230,99,33,Vanilla Beans,lsy,AKAM,$56.60,false,Intra-op neurophys montr
+231,90,37,"Bread - Roll, Canadian Dinner",klh,DNR,$56.81,true,Remove head/neck sutures
+232,96,25,Pomegranates,yky,DMLP,$39.81,true,Ileostomy NOS
+233,75,45,Bagel - Sesame Seed Presliced,cyc,SON,$63.98,true,Punctum repair NEC
+234,68,29,Veal - Nuckle,zhy,FNTE,$22.02,false,Insert gastric bubble
+235,75,44,Wine - Barbera Alba Doc 2001,pvl,YLCO,$45.30,false,Ptosis rep-fron mus slng
+236,83,27,Tomato - Plum With Basil,guc,FMK,$74.75,false,"Int insert 1-cham, rate"
+237,82,44,Ecolab - Hobart Upr Prewash Arm,nyr,VG,$18.79,false,Mid & inner ear biopsy
+238,88,30,Island Oasis - Banana Daiquiri,amg,ALG,$97.67,false,Opn/oth part gastrectomy
+239,92,34,Yucca,zos,KELYA,$37.64,true,Rhinoplasty NEC
+240,84,30,Tea - Herbal I Love Lemon,muq,NXQ,$56.75,false,Stern interposition NEC
+241,97,40,Onions - Pearl,rnq,ISCA,$65.88,true,Dialysis arteriovenostom
+242,76,31,Puff Pastry - Slab,jyk,RST,$46.46,true,Other vulvar operations
+243,89,35,Bread - Bistro White,cvh,JMBA,$64.20,false,IVUS coronary vessels
+244,68,35,Cleaner - Comet,gaa,RNWK,$77.74,false,Dermal regener graft
+245,83,45,Flower - Daisies,dkm,MNR,$62.11,false,Tonsil/adenoid ops NEC
+246,91,48,"Vinegar - Balsamic, White",huz,PETS,$92.09,false,Comb alcohol/drug rehab
+247,82,31,"Asparagus - White, Canned",nbf,IFN,$17.16,false,Stern esophagoesophagost
+248,66,25,Thermometer Digital,oae,PSX,$10.01,false,Laryngeal nerv division
+249,67,36,Stock - Fish,lfp,RDY,$85.80,true,Osteopath manipulat NEC
+250,68,37,"Bread - Roll, Soft White Round",oiz,CUBN,$4.25,true,Other repair of joint
+251,89,32,Wine - Chenin Blanc K.w.v.,bio,MDP,$93.74,false,Esophagostomy closure
+252,94,30,Aspic - Light,tnc,PUK^A,$36.10,true,Exc wound debridement
+253,69,44,Yogurt - French Vanilla,cud,EML,$15.32,false,Incise cerebral meninges
+254,85,46,Neckerchief Blck,hby,SSD,$8.66,false,Remov epithel downgrowth
+255,84,30,Creme De Cacao White,qau,BLMN,$84.70,true,Splenic cyst marsupial
+256,98,24,Kumquat,ejo,RGR,$34.43,true,Sympath nerve division
+257,86,40,Lettuce - Arugula,dhb,ADAP,$33.27,true,Femoral biopsy
+258,77,32,Bread - 10 Grain,zja,TESS,$89.40,false,Cell blk/pap NOS
+259,97,44,Lamb - Shanks,uvq,IVENC,$31.17,true,Liver transplant NEC
+260,89,40,Soup - Campbells Asian Noodle,ugm,BBRY,$16.00,true,Rep cystocel w grft/pros
+261,99,29,Soup - Campbells Chili Veg,cvl,WPPGY,$90.24,false,Thorac drain pleurl cav
+262,96,24,Onion - Dried,ktl,CGEN,$84.76,false,Ligation esoph varix
+263,97,41,Yogurt - French Vanilla,qwa,MVT,$28.87,true,Int fix w/o fx reduc NOS
+264,95,48,Chocolate - Sugar Free Semi Choc,vts,DGLT,$33.92,true,Ptos rep-tarsal techniq
+265,71,44,Chinese Foods - Chicken,dxo,FDS,$26.12,false,Revis ureteroenterostomy
+266,66,27,Carbonated Water - Wildberry,msv,NNY,$33.42,false,Anterior rect resect NEC
+267,99,27,"Bread - Bagels, Mini",rih,THR,$11.54,true,Revise spine theca shunt
+268,85,29,Tomato Paste,xls,CMRE,$51.70,false,Lung laceration closure
+269,79,41,"Pasta - Gnocchi, Potato",vzx,NM^G,$77.16,false,Blepharorrhaphy
+270,73,48,Nantucket Pine Orangebanana,bsb,NTES,$84.48,false,Oth arthrotomy-shoulder
+271,71,38,Ginger - Fresh,ant,SHPG,$96.08,false,Heart vessel op NEC
+272,92,31,Appetizer - Asian Shrimp Roll,vnq,KKR^B,$61.94,true,Removal iud
+273,81,48,Ice Cream - Super Sandwich,wpi,SMBK,$65.88,true,Diagnost vitreous aspir
+274,94,27,"Wine - Sherry Dry Sack, William",ble,BBOX,$78.68,false,Loc exc bone les humerus
+275,76,27,Bread - Triangle White,kpl,SPNS,$15.55,true,Toxicology-lymph system
+276,90,34,Wine - Domaine Boyar Royal,jcf,CSV,$22.20,false,Rt/left heart card cath
+277,97,48,Cheese - Goat With Herbs,yko,NRCIB,$3.14,false,Pros rep ventrc def-clos
+278,87,43,Beef - Top Butt,fiz,KTP,$1.16,true,App ext fix dev-monoplan
+279,70,24,Barley - Pearl,qmt,MGRC,$67.73,false,External ear biopsy
+280,90,34,Lettuce - Romaine,uny,AIQ,$79.46,true,Limb length-metacar/car
+281,82,26,Vinegar - White Wine,yxe,AVAV,$12.29,true,Lap appendectomy
+282,81,41,"Beef - Kindney, Whole",bjn,RPD,$38.30,true,Alcohol detoxification
+283,85,39,Crackers - Water,sin,MS^A,$25.92,true,Bone graft to skull
+284,96,43,"Juice - Orange, 341 Ml",fsm,KE,$47.75,false,Endo rem bronch devc/sub
+285,78,26,Soup - French Can Pea,bhx,MOBL,$70.00,true,Breast xerography
+286,92,46,Onions - Pearl,sip,CORR,$90.84,true,Unilateral adrenalectomy
+287,90,36,"Tray - Foam, Square 4 - S",bfu,IGI,$75.67,false,Tonsillectomy/adenoidec
+288,82,39,Island Oasis - Banana Daiquiri,pmt,V,$4.82,false,Other thyroid operations
+289,95,35,Bread - Burger,uta,SLM,$83.41,true,Implant leg prosthesis
+290,74,35,Kellogs Raisan Bran Bars,lzj,AMOT,$35.12,true,Correct lid retraction
+291,87,37,Scallops - 20/30,psz,XON,$8.87,false,Excise patella for graft
+292,68,29,Beef Tenderloin Aaa,iai,NXPI,$18.59,false,Nasolac duct intubat
+293,87,47,Lobster - Cooked,ado,OIBR.C,$38.03,false,Aorta resection & anast
+294,79,34,Pepper - Red Bell,bvs,OMED,$54.83,true,Vaginal reconstruction
+295,68,25,Flour - Rye,zjj,ALL,$63.45,false,Periph nerv anastom NEC
+296,83,40,Table Cloth 54x72 Colour,edi,ING,$66.23,true,Parasitology-peritoneum
+297,66,39,Bagel - Everything,zuv,JRS,$70.32,true,Destruct-knee lesion NEC
+298,68,42,Beef - Top Sirloin - Aaa,art,CPRT,$9.91,false,Replace upper limb cast
+299,76,40,Ice Cream - Fudge Bars,kaw,MTLS,$1.82,true,Close red-int fix toe fx
+300,71,32,Creme De Menthe Green,rhw,DTYS,$39.70,true,Pacemaker volt threshold
+301,99,47,"Beef - Rib Roast, Capless",zze,NYMT,$61.37,false,Repair ob laceration NEC
+302,80,33,Madeira,jpn,FR,$76.76,true,Remov imp dev-chest cage
+303,79,45,Sprouts - Baby Pea Tendrils,nao,EHIC,$14.23,false,Augmentation rhinoplasty
+304,84,43,V8 - Tropical Blend,qzu,SCG,$96.12,true,Lung operation NEC
+305,93,34,Cheese - Goat With Herbs,cnr,LRGE,$77.63,false,Hemorrhoidectomy
+306,72,46,Smirnoff Green Apple Twist,pqf,BIVV,$53.16,false,Neurologic examination
+307,89,26,Flour - Fast / Rapid,tfe,QUAD,$71.29,false,Impl other limb length
+308,96,35,Crab - Imitation Flakes,drm,ITIC,$81.89,false,Muscle or fascia graft
+309,67,41,Graham Cracker Mix,vfr,SCE^J,$58.81,false,C & s-female genital
+310,93,39,"Wine - White, Lindemans Bin 95",pya,MCHX,$44.38,false,Appendiceal ops NEC
+311,84,35,Rosemary - Dry,uow,UBP,$48.59,true,Other control gast hem
+312,96,39,Cheese - Camembert,ght,POT,$17.69,true,Transposit hand musc NEC
+313,72,45,Wine - Jackson Triggs Okonagan,ctz,PNF,$37.83,true,Perc abltn liver les/tis
+314,87,47,"Artichokes - Knobless, White",hok,USFD,$51.06,true,Endo insrt bronc def/sub
+315,77,25,Wonton Wrappers,bdb,BVXVW,$43.74,false,Omt for gen'l mobilizat
+316,71,47,Wine - Barossa Valley Estate,scr,XGTI,$63.98,false,Laryngeal fx repair
+317,78,42,Onions - Vidalia,unj,SKIS,$34.08,false,Bunionectomy NEC
+318,67,41,Carbonated Water - Strawberry,kln,UNIT,$93.86,true,Hearing examination NOS
+319,73,38,"Juice - Orange, 341 Ml",nlr,LLIT,$47.06,false,Scleral operation NEC
+320,99,32,Tequila - Sauza Silver,ewg,OR,$83.00,true,Ankle joint biopsy
+321,86,42,"Wine - White, French Cross",ela,HPP,$58.94,false,Sphenoidotomy
+322,88,26,Orange Roughy 4/6 Oz,mcz,HUBS,$98.75,true,Keratophakia
+323,98,42,Glaze - Apricot,bas,MIN,$43.26,false,Wrist arthroscopy
+324,78,43,"Capon - Breast, Wing On",upk,OEC,$24.80,true,Vitreous substitut injec
+325,80,28,"Chicken - Leg, Boneless",btd,ENTG,$66.32,false,Common duct excis NEC
+326,68,31,Cake - Cake Sheet Macaroon,uef,HVBC,$45.01,true,Repair oval/round window
+327,88,26,Foil Wrap,itv,FENX,$17.80,true,Thyroid vessel ligation
+328,76,39,Mussels - Frozen,fvo,KRP,$32.92,true,Remov intralum nose FB
+329,71,41,Celery Root,uwb,RBS^L,$64.18,true,Leg varicos v liga-strip
+330,85,32,Currants,maz,FATE,$67.35,false,Parasitology-lower GI
+331,84,40,Peas Snow,klg,ERA,$45.56,true,Excise diaphragm lesion
+332,85,46,Veal - Nuckle,czy,JCE,$90.26,false,Eyebal/orbit dx proc NEC
+333,78,31,Wine - Ice Wine,dyj,ZIONW,$7.54,false,Separat unequl join twin
+334,68,45,Icecream Cone - Areo Chocolate,dks,BRC,$2.31,true,Oth chest cage ostectomy
+335,86,47,Pastry - Chocolate Marble Tea,zac,IFEU,$25.34,false,Fitting of hearing aid
+336,69,27,Russian Prince,rui,EZPW,$81.63,false,"GAP flap, free"
+337,71,41,"Gingerale - Schweppes, 355 Ml",bqy,OSB,$97.41,false,Int fixation-metatar/tar
+338,77,32,"Chocolate - Semi Sweet, Calets",jyg,CLW,$73.68,true,Cyclocryotherapy
+339,84,35,Cup Translucent 9 Oz,rfp,BMRC,$76.17,false,Liver operation NEC
+340,92,31,Crawfish,mrf,BAC^W,$63.90,true,Other dx pt procedure
+341,94,46,"Coconut - Shredded, Unsweet",coi,NRP,$12.55,true,Lacrimal gland biopsy
+342,70,37,Juice - Ocean Spray Cranberry,kop,SBOW,$77.34,true,Bil fem hern repair NEC
+343,99,44,Watercress,ggb,NESR,$22.88,false,Bilat radical mastectomy
+344,68,27,Sugar - Monocystal / Rock,nku,VTGN,$90.43,false,Periren/vesicle excision
+345,74,26,Flavouring - Orange,hqn,SOXX,$3.39,false,Large bowel incision
+346,74,38,Oranges,nsm,ORBK,$87.35,true,Rev knee replacemt-total
+347,75,39,Wine - Port Late Bottled Vintage,jph,MOXC,$91.79,false,Auto hem stem ct w/o pur
+348,84,41,Apple - Custard,coe,OXY,$42.32,false,Cystotomy & adhesiolysis
+349,67,24,Coffee Cup 8oz 5338cd,tyg,MYL,$33.76,true,Aortocor bypas-1 cor art
+350,72,31,Beer - True North Strong Ale,fyv,SNV^C,$75.96,true,Replace cystostomy tube
+351,77,31,Butter - Pod,oke,BRC,$32.21,true,Repair perirect fistula
+352,69,28,Beer - Maudite,irp,TIL,$11.89,true,Psychiatr somatother NEC
+353,66,30,Catfish - Fillets,fps,ATRC,$25.58,true,Fetal ops-facilitate del
+354,72,31,Bread - Mini Hamburger Bun,kzu,HCCI,$94.89,true,Femoral wedge osteotomy
+355,87,30,Carrots - Mini Red Organic,xfp,full_name,$98.05,true,Knee structure division
+356,97,45,Shrimp - 100 / 200 Cold Water,imf,VTWO,$1.47,false,Bicycle ergometer test
+357,75,33,Juice - Orange 1.89l,sop,TGT,$37.54,false,Irrigation of nasal pass
+358,85,28,Water - Green Tea Refresher,fqb,JSYNU,$92.57,true,Impl cardiac support dev
+359,82,25,Beans - Fava Fresh,zbl,K,$23.40,false,Breast xerography
+360,75,29,"Apple - Delicious, Golden",rcm,NQ,$34.18,false,Oth dx proc-tibia/fibula
+361,86,34,Butcher Twine 4r,hlr,GALT,$73.31,true,Petrus pyram air cel inc
+362,75,47,Bread Roll Foccacia,obb,NCSM,$68.17,true,Op red-int fix metac/car
+363,86,37,Veal - Leg,fzz,JHD,$83.00,true,Blood vessel thermograph
+364,71,31,Dragon Fruit,ssy,ESGD,$32.22,false,Graft reinforce sclera
+365,78,44,Ecolab - Ster Bac,loe,METC,$54.51,true,Pnemothorax-lung collaps
+366,67,40,"Pasta - Lasagne, Fresh",jpp,AZZ,$61.97,true,Fetal ekg
+367,67,29,Eggroll,umb,FBR,$51.80,true,Testicular operation NEC
+368,91,39,"Basil - Primerba, Paste",ioq,TA,$45.68,false,Per nerve adhesiolys NEC
+369,82,42,Flower - Potmums,pks,JCS,$29.59,true,Pharyngeal dx proc NEC
+370,69,27,"Hickory Smoke, Liquid",oaw,AKAO,$2.48,true,Closed bx of esophagus
+371,93,40,Chips - Assorted,vhc,DLHC,$87.63,false,Radical abd hyst NEC/NOS
+372,76,33,"Pasta - Lasagne, Fresh",obm,KFFB,$71.91,false,Open lung biopsy
+373,84,48,Rabbit - Whole,eel,MFM,$88.36,false,Barium swallow
+374,76,25,Fond - Chocolate,tiy,ANDA,$3.94,false,Other acupuncture
+375,71,24,Cheese - Le Cru Du Clocher,elc,MORE          ,$24.41,true,Percut vertebral augment
+376,81,31,"Chilli Paste, Ginger Garlic",zfh,AEIS,$81.38,false,Vacuum ext del w episiot
+377,77,47,White Fish - Filets,upw,MFNC,$71.49,true,Visual evoked potential
+378,98,30,Wine - Chianti Classica Docg,zkj,RKDA,$97.99,false,Delay opening ileostomy
+379,66,38,"Pork - Loin, Boneless",asx,IIVI,$22.94,false,Polypectomy of rectum
+380,79,48,"Marsala - Sperone, Fine, D.o.c.",pha,BAC^D,$49.80,false,Percutaneous hysterogram
+381,77,25,"Sauce - White, Mix",bdm,MCEP,$71.63,false,Scrot/tunica dx proc NEC
+382,89,44,Strawberries - California,ucn,DRAD,$63.36,true,Milk extraction
+383,85,46,Mini - Vol Au Vents,bzf,TGTX,$56.16,false,Coron vess aneurysm rep
+384,97,43,Sauce - Thousand Island,edf,NBRV,$83.08,true,Drsl/drslumb fus ant/ant
+385,76,40,Sugar - Splenda Sweetener,uwf,SC,$91.15,false,Transplant hand tend NEC
+386,83,39,Sauce - Hollandaise,mtt,AGM^A,$40.18,false,Replace dental packing
+387,71,43,Marzipan 50/50,hmh,SELF,$10.44,true,Operation on lens NEC
+388,71,40,Sole - Fillet,cha,TPIC,$31.04,false,Atlas-axis fusion
+389,87,25,Lobster - Cooked,obg,AIA,$17.38,false,Revis enuc socket w grft
+390,97,47,"Soup - Cream Of Broccoli, Dry",wlm,KN,$56.53,true,Other perfusion
+391,67,36,Wine - Prosecco Valdobienne,qru,SLB,$52.91,false,Oth intraop mag res imag
+392,82,37,Lotus Root,onq,DRI,$17.93,true,Vitreous substitut injec
+393,98,31,Nantucket Orange Juice,var,PBB,$84.29,false,Trachea fistula clos NEC
+394,93,48,"Yogurt - Blueberry, 175 Gr",ubv,MTEX,$89.93,true,Stern esophagogastrostom
+395,70,33,"Turkey - Breast, Smoked",vna,NEE^Q,$95.62,false,Mastoidectomy revision
+396,83,33,"Pepper - Black, Crushed",jhe,CSTM,$10.61,true,Cyclophotocoagulation
+397,71,41,"Tomatoes - Diced, Canned",meu,RFI,$34.93,true,Remov intralum uter FB
+398,77,37,Bread - Triangle White,fdk,VTHR,$42.57,true,Clos bx saliv gland/duct
+399,87,38,Crab Brie In Phyllo,luf,TLYS,$57.08,true,Endosc retro cholangiopa
+400,94,26,"Bread - Roll, Whole Wheat",rex,PXD,$61.76,false,Eye fluorescein angiogra
+401,71,39,"Beef - Rib Roast, Capless",rqh,SYNT,$71.28,false,Liver scan/isotope funct
+402,68,38,"Cake Circle, Paprus",zrd,MCR,$18.87,true,Lung repair NEC
+403,67,34,Soap - Mr.clean Floor Soap,xnh,HR,$79.49,false,Intest stoma revis NOS
+404,91,45,Island Oasis - Strawberry,muv,GLOG^A,$47.21,false,Abdperneal resc rect NEC
+405,95,42,"Wine - White, Riesling, Semi - Dry",ote,SRSC,$26.23,true,Intra-abd sm bowel manip
+406,69,39,Rappini - Andy Boy,eew,ESNT,$58.23,true,Nonexc destruc iris les
+407,96,47,Trout Rainbow Whole,naq,BGNE,$12.95,false,Revision of pedicle grft
+408,83,47,"Water - Mineral, Natural",fye,EAGL,$14.57,true,Orbital exenteration NEC
+409,94,35,"Bread - Rolls, Rye",xbo,ALLY,$47.98,true,Hymenorrhaphy
+410,75,41,Chips - Doritos,bqy,AVA,$28.19,true,Exc max sinus lesion NEC
+411,91,35,Compound - Mocha,ecq,AGLE,$69.85,true,Endosc destruc lung les
+412,72,38,Pail For Lid 1537,lrk,MSL,$36.54,true,Lap bi indir ing hrn-grf
+413,82,26,Lamb - Loin Chops,tsn,AMG,$59.61,true,Upper lid rhytidectomy
+414,90,26,Ecolab - Power Fusion,lyj,GFA,$32.77,false,Saliv glnd dx proc NEC
+415,83,27,Cup - 4oz Translucent,cia,MAA^I,$31.61,true,Arbovirus enceph vaccin
+416,66,39,Quail - Jumbo Boneless,yky,FLL,$61.55,false,Coreoplasty
+417,97,30,Venison - Ground,gqu,MTH,$80.53,false,Detach retina xenon coag
+418,66,45,Soup - Campbells,gfv,PDM,$47.19,true,Remove intralum ureth FB
+419,68,38,Juice - Happy Planet,ttv,VBND,$62.23,true,Skull flap formation
+420,84,34,Mustard - Pommery,meu,TCBIL,$1.79,false,Opn aortic valvuloplasty
+421,68,31,Sugar - Invert,qdi,ANH^A,$70.03,true,Contrast myelogram
+422,77,46,Wine - Taylors Reserve,szo,AMZN,$56.25,true,Resect abdm aorta w repl
+423,98,36,Juice - Propel Sport,xoe,OEC,$2.31,true,Revise sm bowel anastom
+424,71,31,Table Cloth 90x90 Colour,dai,PXD,$66.58,false,Remove dental prosthesis
+425,88,33,Cheese - Pont Couvert,ouk,BIS,$84.95,false,Insertion of iud
+426,72,25,Juice - Prune,dvm,SCSC,$12.94,true,Rad dissec axillary node
+427,79,43,"Bread - Roll, Whole Wheat",deu,WFC^N,$71.08,false,Pteryg exc w cornea grft
+428,77,44,Apple - Granny Smith,aag,CASY,$50.35,false,Rad node dissection NEC
+429,87,33,Chevril,xay,RLJ,$27.90,false,Arterioven fistula rep
+430,83,34,Eggplant - Baby,nyh,BSRR,$30.81,true,Catarac phacoemuls/aspir
+431,78,36,"Pepper - Chillies, Crushed",ywh,PJC,$80.00,false,Limb length measurement
+432,89,43,Pop Shoppe Cream Soda,aah,SNHNI,$39.29,false,Elbow structure division
+433,91,28,Water - Spring 1.5lit,bwp,DS^D,$32.67,false,Bone division NEC
+434,93,42,Tomatoes - Orange,erl,PSO,$32.80,true,Bilat extend simp mastec
+435,73,46,Tea - Earl Grey,rax,BETR,$46.91,false,Sm bowel-rect stump anas
+436,69,38,Sprouts - Peppercress,kuo,CUDA,$24.23,true,Therapeutc leukopheresis
+437,70,46,Melon - Cantaloupe,qlb,BML^I,$71.40,false,Cran nerv root decom NEC
+438,91,42,"Fish - Artic Char, Cold Smoked",xds,NBRV,$80.91,true,Open adrenal gland bx
+439,98,40,Muffin - Carrot Individual Wrap,egl,GNMA,$86.98,false,Wound irrigation NEC
+440,80,48,Red Currants,kvz,NVS,$91.48,false,Teleradio using photons
+441,75,33,Salmon - Fillets,onq,PES,$72.49,true,Culture-bili/pancreas
+442,98,32,"Apple - Delicious, Red",qei,TRS,$12.72,true,Proctostomy
+443,82,47,Water - Evian 355 Ml,dhv,AIG,$88.19,false,Other vaginal dilation
+444,70,34,Cheese - Stilton,saz,NTC,$43.14,true,Cell blk/pap-lymph sys
+445,98,28,Bar - Granola Trail Mix Fruit Nut,xed,CENTA,$42.52,false,Abdominal tomography NEC
+446,79,35,Drambuie,srk,TEX,$71.83,true,Esophageal operation NEC
+447,78,31,Nestea - Iced Tea,gri,ALR,$7.62,true,Cord & epidid repair NEC
+448,83,42,"Sole - Dover, Whole, Fresh",lku,FRC^F,$61.99,true,"Repl pacem 1-cham, rate"
+449,92,40,Calypso - Lemonade,pnn,ENFC,$46.74,false,Transfusion NEC
+450,88,24,"Cookies - Oreo, 4 Pack",rqg,FFBC,$65.67,false,Unilat reduct mammoplast
+451,99,46,Cheese - Comtomme,fje,TCF^C,$53.22,false,Orbital exenteration NEC
+452,92,36,Bread - English Muffin,dvo,HRI,$57.42,true,Hemorrhoid evacuation
+453,74,28,Dr. Pepper - 355ml,kkl,FYC,$60.93,true,Remove ventricle shunt
+454,67,41,Chips Potato All Dressed - 43g,cyp,RGA,$39.48,true,Total mandibulectomy NEC
+455,67,33,Cardamon Seed / Pod,fic,BXMX,$86.94,true,Tarsal tunnel release
+456,95,24,Cup - Paper 10oz 92959,tkw,CYH,$4.86,true,C.A.T. scan of head
+457,78,24,"Vodka - Hot, Lnferno",qmx,STLRW,$40.98,true,Other phototherapy
+458,83,27,Mushroom - White Button,cuz,OTEX,$1.68,true,Loc exc les metacar/car
+459,74,24,Contreau,rxl,NEWR,$30.11,false,Atlas-axis fusion
+460,82,47,Heavy Duty Dust Pan,vtn,SYNA,$8.84,false,Irrigate/expl vent shunt
+461,95,35,Dip - Tapenade,blu,CLRBW,$85.54,true,Hemorr contrl post T & A
+462,94,38,Juice - Ocean Spray Cranberry,qdg,ICUI,$17.53,false,Internal fixation-femur
+463,69,34,Rootbeer,tmc,JYNT,$53.17,false,Opn red-sep epiphy-humer
+464,71,30,Munchies Honey Sweet Trail Mix,kcq,DHIL,$15.92,true,Percut vertebral augment
+465,89,38,Cod - Fillets,eal,BIF,$10.61,false,Referral for psychother
+466,92,30,Nantucket - Orange Mango Cktl,rmj,HMC,$13.72,false,Local gastr excision NEC
+467,84,26,Juice - Lime,azz,IX,$94.95,true,Dpt administration
+468,77,45,Mayonnaise,kod,FNK,$12.50,true,Debrid opn fx-finger
+469,71,34,Wine - Sogrape Mateus Rose,hfm,SJW,$6.91,false,Gastric cooling
+470,92,44,Myers Planters Punch,ccz,NRIM,$31.40,true,Rem extratub ectop preg
+471,94,34,"Lemonade - Black Cherry, 591 Ml",pdz,GPRK,$45.94,true,Lap tot intr-ab colectmy
+472,98,38,"Turkey - Whole, Fresh",dcj,WVVIP,$2.61,false,C & s-integument
+473,80,26,Crawfish,how,KF,$61.97,false,Limb shorten proc NEC
+474,67,33,"Roe - Lump Fish, Black",anq,GNE^A,$1.44,false,Therapeut distent bladd
+475,92,35,Creme De Menth - White,nlw,FTS,$35.39,false,Periren/vesicle op NEC
+476,67,38,Chocolate - Feathers,cne,EGF,$19.26,true,Suture cord & epid lacer
+477,92,28,Thyme - Fresh,lti,BANFP,$52.72,true,Rem of cor art obstr NEC
+478,95,40,"Crush - Orange, 355ml",ehf,NNN^F,$82.69,false,Sm bowel-rect stump anas
+479,79,36,"Quail - Whole, Bone - In",lyp,NCR,$77.26,false,Endo pulm arwy flow msmt
+480,93,26,Table Cloth 54x72 Colour,ook,NATR,$7.58,false,Periton pneumogram NEC
+481,86,27,Muffin Mix - Chocolate Chip,hpj,NDP,$32.19,false,Nasal sinus dx proc NEC
+482,91,47,"Jam - Blackberry, 20 Ml Jar",qcp,SUI^A,$23.59,true,Excise diaphragm lesion
+483,86,39,Oranges,gql,IRS,$28.89,false,Excision of joint NEC
+484,99,30,Ketchup - Tomato,ufo,HFBL,$6.95,true,Contrast bronchogram NEC
+485,82,31,Maple Syrup,lzp,DSW,$70.70,false,Bact smear-musculoskel
+486,67,27,"Turkey - Whole, Fresh",nei,AKR,$60.09,true,Psychiatr somatother NEC
+487,86,35,Longos - Lasagna Beef,jjz,CFCO,$23.99,false,Ins/repl interspine dev
+488,91,36,Beef - Short Loin,sjl,CIM^B,$75.88,false,Sm bowel exteriorization
+489,88,37,Soup - Campbells Mushroom,cor,ISRL,$25.84,false,Prostatic operation NEC
+490,66,46,Waffle Stix,uub,ARNC^B,$57.16,true,Angio oth non-coronary
+491,95,36,Soup Campbells Beef With Veg,tny,GNC,$27.71,false,Varicose v lig-strip NOS
+492,70,36,Appetizer - Smoked Salmon / Dill,sly,MNST,$20.00,false,Skel xray-lower limb NOS
+493,72,32,"Artichoke - Hearts, Canned",pgk,RDNT,$54.53,false,Replace cast NEC
+494,82,44,Cheese Cloth No 100,qzf,CLNS^E,$36.95,false,Limb lengthen-tib/fibula
+495,82,32,Chocolate - Dark,jiz,NVCN,$89.37,true,Cl fx reduc-metacar/car
+496,96,27,V8 - Vegetable Cocktail,mku,SHLO,$84.07,true,"Repl joint of foot, toe"
+497,92,34,Sausage - Blood Pudding,ofh,SPWR,$71.06,true,Arthroplasty metacar w/o
+498,97,34,"Lettuce - Romaine, Heart",pze,SVA,$93.76,false,Oth metac/carp rep/plast
+499,74,45,Bread - Sour Batard,tiw,NWHM,$64.44,true,Suture of gum laceration
+500,99,34,Cookies Oatmeal Raisin,rmz,LDOS,$18.50,false,Total knee replacement
+501,90,24,"Squash - Pattypan, Yellow",ubu,KYO,$60.59,false,Thorax sft tiss xray NEC
+502,67,26,Pork - Hock And Feet Attached,ebn,PCN,$40.27,true,Replace cast NEC
+503,86,45,Crackers - Water,hkn,FNY,$64.32,false,Spectacle fit & dispense
+504,98,31,Snapple - Mango Maddness,jzl,GS^J,$35.62,true,Non-invasive mech vent
+505,67,38,Tarts Assorted,yfk,FFG,$14.72,true,Fit below knee prosthes
+506,68,32,Shrimp - Black Tiger 13/15,ikj,TPRE,$30.70,false,Larynx cyst marsupializ
+507,66,38,Onions - Cooking,kvl,PTH,$30.28,false,Transplant cadaver donor
+508,70,24,Cranberries - Fresh,ari,WAIR,$64.19,true,Tooth implantation
+509,87,26,"Pasta - Fettuccine, Egg, Fresh",yln,ENFC,$84.92,true,Abdominal wall incision
+510,69,29,"Stock - Beef, Brown",pln,LBRDA,$12.36,true,Male genital x-ray NEC
+511,98,36,Cake - Miini Cheesecake Cherry,pgl,AMAT,$27.92,false,Fus/refus 2-3 vertebrae
+512,99,40,Sprouts - Baby Pea Tendrils,ryj,PNNT,$23.21,true,Type 4 tympanoplasty
+513,94,41,Cinnamon - Stick,wiw,FCAN,$27.70,true,Cystourethroplasty
+514,69,34,Alize Sunset,vdl,ANDAU,$18.16,true,Total ostectomy-humerus
+515,76,38,Hand Towel,tqu,XEC,$77.50,false,Incis obstr bile duc NEC
+516,99,43,Pear - Packum,cjg,SDT,$33.17,true,Replace vaginal pessary
+517,91,41,Flour Pastry Super Fine,pke,OPK,$71.06,true,Oth dx proced-patella
+518,71,36,Hold Up Tool Storage Rack,xca,KLXI,$40.50,true,Bact smear-lymph system
+519,76,47,Wine - Manischewitz Concord,yyj,KOP,$68.85,true,Ureth reconstruction NEC
+520,82,46,Eggs - Extra Large,ded,CADE,$34.55,false,Bone graft to skull
+521,88,48,"Fish - Base, Bouillion",elp,TPGE.U,$22.72,true,Rt & lt heart angiocard
+522,69,43,Lid Coffee Cup 8oz Blk,gqj,RAND,$7.79,true,Laparoscopic cholecystec
+523,77,45,"Pasta - Cannelloni, Sheets, Fresh",dqf,PSA,$54.38,true,Non-invasive bone stimul
+524,81,38,Chocolate - Dark Callets,yfg,PODD,$49.00,false,Heart transplantation
+525,99,33,Durian Fruit,xwt,PMM,$76.38,true,Auto hem stem ct w/o pur
+526,75,47,"Nut - Pine Nuts, Whole",ltc,BBT^G,$24.35,false,Other plastic ops fascia
+527,87,41,Foam Espresso Cup Plain White,crf,FUL,$33.99,false,Reimplant pancreatic tis
+528,84,34,"Doilies - 7, Paper",zfg,HLF,$35.77,false,Rad dissec periaort node
+529,79,34,Berry Brulee,bxi,HIW,$8.81,true,Intestinal anastom NOS
+530,92,39,Chicken - White Meat With Tender,pqd,SAL,$89.11,false,Retinal tear repair NEC
+531,79,26,Temperature Recording Station,swa,ITG,$86.40,false,Cl red-int fix metac/car
+532,93,40,Wine - Barossa Valley Estate,hjj,ONB,$28.66,false,Bone graft NEC
+533,75,44,Plasticknivesblack,fly,RUSHB,$51.98,false,Ptosis rep-front mus sut
+534,97,33,Bread - Mini Hamburger Bun,bxz,FTEK,$69.73,false,Oral cavity ops NEC
+535,87,42,Energy Drink - Franks Original,rfw,APEN,$73.63,false,Knee structure division
+536,93,33,Wine - Acient Coast Caberne,ref,BCOV,$66.21,true,Lap lys perivesureth adh
+537,74,42,"Rum - Light, Captain Morgan",trw,SPPI,$15.03,false,Abdominal x-ray NEC
+538,83,24,Sauce - Caesar Dressing,yrl,TNK,$59.54,true,Oth arthrotomy-hip
+539,68,47,Black Currants,piw,GAM,$45.31,false,Classical c-section
+540,68,30,"Bread - Bagels, Mini",kto,HAS,$76.59,true,Prosthetic evaluation
+541,80,24,Sugar - Invert,inm,KEQU,$90.89,false,Ins/repl single pul gen
+542,74,46,Cheese - Feta,rqz,SBNY,$90.27,true,Incis rectal stricture
+543,75,39,"Pepper - Black, Whole",las,ESLT,$92.65,false,Suture of tongue lacerat
+544,99,36,Rice - Long Grain,yys,OMED,$3.90,true,Other skeletal x-ray
+545,79,48,Squid - Tubes / Tenticles 10/20,bol,AIMT,$84.10,false,Lymphatic struct biopsy
+546,71,36,Contreau,cql,HY,$37.37,false,Contr cerebr arteriogram
+547,74,34,Wine - Peller Estates Late,nmf,FCNCA,$91.08,true,Thoracostomy closure
+548,76,35,Bread - Raisin Walnut Pull,ucm,NL,$44.12,false,Incision of vessel NOS
+549,68,45,Tomatoes Tear Drop Yellow,hht,DTYL,$69.97,true,Scleral fistula repair
+550,80,25,Chips Potato Salt Vinegar 43g,eww,FLXN,$19.71,true,Local sm bowel perfusion
+551,83,34,"Red Snapper - Fillet, Skin On",bhv,DE,$73.64,false,Clubfoot release NEC
+552,88,47,Carroway Seed,qzo,ADSW,$78.93,true,Electroshock therapy NEC
+553,79,27,Cup - 8oz Coffee Perforated,fej,IRET,$13.11,true,Cardioplegia
+554,84,38,Clams - Bay,jei,SLNO,$89.54,true,Loc exc les tibia/fibula
+555,78,39,Soup - Chicken And Wild Rice,ycq,ASML,$71.67,true,Treadmill stress test
+556,79,35,Isomalt,gbq,TVPT,$68.98,true,Radical laryngectomy
+557,88,24,Cake - French Pear Tart,eix,NWS,$1.28,true,Repair vulvar fistula
+558,77,40,Puree - Passion Fruit,xbv,KN,$84.86,true,Liver transplant NEC
+559,78,38,"Brownies - Two Bite, Chocolate",qho,TSM,$72.25,true,Micro exam-lymph sys NEC
+560,91,31,"Soup - Beef Conomme, Dry",fap,FIZZ,$34.50,false,Hemorrhoid evacuation
+561,90,25,"Croissant, Raw - Mini",quu,EPIX,$32.04,false,Goniosynechiae lysis
+562,79,33,Beef - Top Butt,mot,EHTH,$11.69,true,Nasal sept grft-epistax
+563,80,36,Beef - Rib Eye Aaa,jkk,HRC,$95.68,false,Inject insulin
+564,82,45,Cake - Dulce De Leche,ije,HGV,$42.22,true,Anal cerclage
+565,92,34,Bowl 12 Oz - Showcase 92012,uae,RPRX,$28.59,true,Chest cage sequestrec
+566,98,25,Bread Crumbs - Panko,apy,KOSS,$63.59,false,Micro exam-nervous NEC
+567,67,37,"Beans - Long, Chinese",gua,INFY,$1.50,true,Cyclocryotherapy
+568,87,30,"Chilli Paste, Hot Sambal Oelek",osx,WSM,$67.84,false,Loc exc bone lesion NEC
+569,94,32,Oysters - Smoked,typ,RSO,$55.14,true,Man replace invert uter
+570,75,25,Ecolab - Solid Fusion,lpy,BFAM,$47.08,true,Opn/oth part gastrectomy
+571,71,38,Ham Black Forest,pdv,CCV,$33.13,false,Other incid appendectomy
+572,78,30,Dried Figs,ptd,HCOM,$38.31,true,Suture cervical lacerat
+573,78,26,Nut - Pumpkin Seeds,wrk,EZT,$93.29,false,Aquapheresis
+574,91,25,Clams - Canned,pgt,PKW,$14.92,true,"Hip surface, metal/poly"
+575,83,37,Pecan Raisin - Tarts,iqk,SCX,$13.83,false,Routine chest x-ray
+576,99,42,Nut - Macadamia,rhh,WRB,$98.54,false,Ureteral operation NEC
+577,86,40,"Soup - French Onion, Dry",gii,PRU,$7.38,true,Closed red-int fix femur
+578,99,30,"Oil - Olive, Extra Virgin",pvh,CXE,$18.45,true,Mri of brain & brainstem
+579,70,38,Extract - Almond,kjd,PRXL,$73.76,true,Cil body diminution NOS
+580,80,27,Oil - Pumpkinseed,wcu,SRCE,$16.09,true,Remov small bowel tube
+581,92,35,Ocean Spray - Kiwi Strawberry,yuy,TEAM,$63.88,false,Inject/infuse electrolyt
+582,83,35,"Plate - Foam, Bread And Butter",gcv,BTT,$33.46,true,Vaginal suspens & fixat
+583,82,48,"Glass - Wine, Plastic, Clear 5 Oz",xgu,NRG,$5.80,false,Manl reduct stoma prolap
+584,86,27,Sour Puss - Tangerine,yvu,DLR^G,$71.00,true,Ventricl shunt-head/neck
+585,96,30,Salt - Table,lgm,TWO^A,$80.85,true,Root canal NOS
+586,75,47,Veal - Heart,dqt,WSCI,$87.08,false,Abd vein resect & anast
+587,96,48,"Split Peas - Yellow, Dry",rdp,BWG,$26.71,true,Destruct ext ear les NEC
+588,71,45,Chocolate - Dark Callets,aam,BREW,$66.66,true,Destruct conjunc les NEC
+589,92,26,Pickle - Dill,vdk,APO^A,$11.55,false,Delay opening colostomy
+590,72,38,Syrup - Chocolate,nft,H,$94.07,true,Remove ventricle shunt
+591,91,26,"Tart Shells - Savory, 3",sco,DLPH,$23.15,true,Cyclodialysis
+592,72,38,Cheese - Cottage Cheese,kse,MKSI,$97.63,true,Part breech extract NEC
+593,98,41,"Doilies - 5, Paper",wtd,EAT,$42.26,false,Pineal field exploration
+594,84,26,Kale - Red,tof,NOVT,$35.21,false,Psychiatr somatother NEC
+595,79,40,"Tendrils - Baby Pea, Organic",sqq,RCI,$89.85,true,Laryngeal fistula clos
+596,90,27,Longos - Greek Salad,bdw,PBT,$62.37,false,Jt structur division NOS
+597,70,41,Star Fruit,twa,DOX,$37.98,true,Limb length-radius/ulna
+598,91,44,Salt - Kosher,rpy,MXPT,$41.84,false,Braille or moon training
+599,66,38,Flour - Rye,wkk,KKR^A,$79.33,true,Replace gast/esoph tube
+600,66,48,Steampan - Half Size Shallow,wbs,EPC,$91.70,false,Oth arthrotomy-shoulder
+601,77,43,Clams - Canned,nyh,LGND,$20.89,false,Partial esophagectomy
+602,92,39,Ecolab - Hobart Upr Prewash Arm,nhw,GBLI,$85.31,false,Spermatocele aspiration
+603,85,40,Black Currants,jse,NM^G,$38.27,true,Lap left hemicolectomy
+604,95,24,Island Oasis - Ice Cream Mix,utb,EMES,$88.66,true,Control anal hemorrhage
+605,70,25,Skirt - 24 Foot,obl,PTY,$49.18,true,Radius/ulna wedg osteoto
+606,97,30,Grand Marnier,jva,FNWB,$92.29,false,Abd wall suture NEC
+607,80,27,Bread - Rye,eld,CIB,$40.24,true,Fallopian tube aspirat
+608,81,47,Cheese - Augre Des Champs,khg,GHL,$84.50,false,Graft repair ventric def
+609,72,40,"Mushroom - Chanterelle, Dry",fca,OZRK,$74.49,false,Carporadial fusion
+610,71,40,"Vodka - Lemon, Absolut",wpu,IMRN,$86.45,false,Other resp procedures
+611,75,43,Pork - Suckling Pig,pft,SUP,$6.69,true,Orbitotomy w bone flap
+612,94,40,"Cherries - Maraschino,jar",axx,JCS,$97.15,true,Pancreatic homotransplan
+613,83,46,Foil Cont Round,svt,WTFC,$31.71,true,Int or repl perm pacemkr
+614,79,46,Filling - Mince Meat,bhe,EZPW,$26.97,true,Suture vagina laceration
+615,82,45,Mace,gsa,MNP,$18.91,true,Other craniectomy
+616,86,30,Appetizer - Chicken Satay,mdm,PSDV,$92.14,false,Muscle trnsfr/transplant
+617,93,31,Foam Espresso Cup Plain White,sgw,CPE^A,$51.31,true,Local sm bowel perfusion
+618,69,38,Wine - Two Oceans Sauvignon,pjq,GTY,$2.49,false,Culture-nervous syst
+619,98,28,Lettuce - Treviso,cdx,WRB^B,$40.06,false,Vulvar adhesiolysis
+620,89,27,Daikon Radish,fmd,CAMP,$54.84,true,Metacarp/carp inj op NOS
+621,87,24,Island Oasis - Peach Daiquiri,aog,BKE,$29.18,false,Destroy loc lung les NEC
+622,67,41,Parsnip,fwo,PBCT,$22.73,false,Perc hepat Cholangiogram
+623,86,37,Energy Drink Red Bull,rsv,NDRAW,$43.71,false,Local excis breast les
+624,86,40,Mcgillicuddy Vanilla Schnap,qcl,MTB^C,$83.80,true,Ventricl shunt-abdomen
+625,86,47,Sausage - Meat,gru,OMAA,$41.58,true,Tooth restorat by inlay
+626,86,39,White Baguette,bed,EROS,$70.98,false,Brain meninge repair NEC
+627,77,35,Eggroll,woz,DRD,$10.93,true,Therapeutc photopheresis
+628,93,43,Bar Mix - Lemon,dnb,GEN           ,$69.04,false,Debrid opn fx-metat/tar
+629,70,30,Lettuce - Boston Bib - Organic,wlu,PETX,$17.38,false,Other post segment ops
+630,77,24,Ice Cream - Life Savers,yze,GNVC,$62.67,true,Spleen diagnost proc NEC
+631,81,48,Stainless Steel Cleaner Vision,lli,RF^B,$90.58,true,Lg bowel dx proced NEC
+632,85,36,Lid - 3oz Med Rec,doa,HHC,$44.77,true,Inc soft tissue hand NEC
+633,74,41,"Nut - Chestnuts, Whole",ayx,MIND,$16.92,false,Size reduct plastic op
+634,90,40,Muffin - Mix - Creme Brule 15l,mnr,SPH,$78.20,false,Micro exam-periton NEC
+635,90,30,Bread - 10 Grain Parisian,son,SCE^H,$62.30,false,Ins/repl facet replc dev
+636,67,31,Wine - Two Oceans Cabernet,fto,ACET,$74.40,false,Linear rep lid lacer
+637,81,38,Shrimp - Black Tiger 6 - 8,opx,TS,$23.99,true,Comb alcohol/drug detox
+638,81,42,Squid - Breaded,nen,MACQ,$69.59,false,"Omt with hi-vel,lo-ampli"
+639,98,30,Sole - Fillet,gzm,LHO^J,$82.66,false,Stapedectomy revis NEC
+640,98,26,Oil - Olive,wne,SOHO,$55.48,false,Ureteropexy
+641,75,45,"Artichoke - Hearts, Canned",xxf,FPH,$81.52,false,Creat esophagastr sphinc
+642,78,48,Calypso - Strawberry Lemonade,erv,VIRT,$36.79,false,Referral psych aftercare
+643,93,46,Wine - Cave Springs Dry Riesling,gsu,CHEKW,$11.15,false,Hypo-epispadius repair
+644,74,47,Nut - Macadamia,egy,EGBN,$3.62,false,Muscle thermography
+645,74,30,Melon - Cantaloupe,vbu,BML^I,$87.87,true,Abdperneal res rectm NOS
+646,90,25,Wine - Duboeuf Beaujolais,bga,UBP^G,$80.73,true,Periph nerve transposit
+647,99,39,Muffin Mix - Corn Harvest,nzx,GGG,$24.58,true,Culture-spleen/marrow
+648,77,27,"Crab - Blue, Frozen",wqu,LNDC,$20.76,true,Remove gastric bubble
+649,90,26,Container - Clear 32 Oz,ekj,DDR,$71.19,false,Destroy fallop tube les
+650,67,46,Energy - Boo - Koo,jct,LBTYB,$83.17,false,Cell blk/pap-musculoskel
+651,68,34,"Beef - Rib Roast, Capless",xfj,QTNA,$15.25,false,Destr sm bowel les NEC
+652,89,25,Almonds Ground Blanched,pbg,SA,$54.66,true,Stereo radiosurgery NEC
+653,71,34,Muffin Puck Ww Carrot,pam,FIZZ,$71.46,false,Remov mediastinal drain
+654,85,29,Lettuce - Belgian Endive,ntq,LILA,$27.98,true,Bronchial operation NEC
+655,95,27,Olive - Spread Tapenade,opy,MGCD,$44.96,false,Remove tracheostomy tube
+656,95,43,Beef - Top Butt Aaa,pid,FKU,$46.27,false,Other destruc anus les
+657,96,33,Raisin - Golden,cja,OPB,$57.95,true,Ventri shunt-uninary sys
+658,78,40,Quiche Assorted,bpx,MTSI,$86.27,true,Contrast renal arteriogr
+659,72,47,Hinge W Undercut,zmc,PTR,$63.11,false,Sinus lavage thru ostium
+660,94,38,Ecolab - Lime - A - Way 4/4 L,zfr,IPCI,$33.33,true,Culdotomy
+661,93,29,Thyme - Dried,vfz,AEG,$75.03,false,Tendon advancement
+662,70,40,Cheese - Gouda Smoked,ist,AKO.B,$36.01,true,Part breech extract NEC
+663,79,36,Island Oasis - Ice Cream Mix,dfw,CFCOU,$68.22,true,Intcran var v lig-strip
+664,91,43,Wine - Chianti Classica Docg,blg,MELR,$34.47,true,Stern esophagogastrostom
+665,99,44,Red Cod Fillets - 225g,wpd,DPS,$35.31,true,Removal of cement spacer
+666,95,45,Brandy - Bar,cgd,MPO,$45.75,false,Larygnoscopy/tracheoscop
+667,94,47,Cake - Cake Sheet Macaroon,btp,APA,$29.35,false,Aspiration skin & subq
+668,68,41,Chinese Foods - Plain Fried Rice,yft,VOD,$64.39,true,Fallopian tube insufflat
+669,71,26,"Pasta - Bauletti, Chicken White",tkl,JQC,$36.45,true,Cisternal puncture
+670,68,45,Soup - French Onion,idt,BIIB,$46.37,true,Lap right hemicolectomy
+671,66,47,Lettuce - Spring Mix,uue,IMRNW,$56.10,false,Endosc inser stent bile
+672,77,35,Shrimp - 31/40,nzq,HLNE,$41.67,true,Facilit intraoc circ NEC
+673,75,45,Stainless Steel Cleaner Vision,xqf,SIX,$21.54,false,Periph nerve inject NOS
+674,74,37,Soup Bowl Clear 8oz92008,naa,TCRX,$46.36,false,Peripheral nerve ops NEC
+675,90,38,Wine - Manischewitz Concord,jdx,RLJE,$55.97,false,Tot breech extrac NEC
+676,73,35,Lamb Shoulder Boneless Nz,ojt,AIG.WS,$3.75,true,Scarification of pleura
+677,87,47,Paste - Black Olive,bsc,EARS,$26.62,true,Other tenonectomy
+678,71,32,Flour - Fast / Rapid,ufa,DECK,$94.58,true,Bact smear-lymph system
+679,66,28,"Mushrooms - Black, Dried",eve,CRME,$25.90,false,PTCA
+680,71,36,Pastry - Apple Muffins - Mini,jbs,DTY,$83.00,false,Replace cystostomy tube
+681,82,28,Paste - Black Olive,zsd,ABT,$73.04,false,Perforat keratoplast NEC
+682,73,45,Wine - Fino Tio Pepe Gonzalez,nkn,TYG,$86.61,false,Abdomen region ops NEC
+683,72,28,Cheese - Pied De Vents,kwt,GASS,$48.47,true,Percu endosc gastrostomy
+684,74,24,Dome Lid Clear P92008h,czm,FCT,$94.94,false,Thorac lg bowel interpos
+685,90,44,"Pasta - Tortellini, Fresh",alt,GCO,$70.85,false,Neck support application
+686,76,27,Peas - Frozen,ovv,NYCB^U,$8.72,true,Prosth rep hrt septa NOS
+687,91,32,Wine - Touraine Azay - Le - Rideau,yua,PBSK,$39.10,true,Laser destruc rectal les
+688,83,24,"Pepper - Paprika, Hungarian",nnj,PSA^Y,$54.32,true,Mix venous bld gas meas
+689,75,29,Wine - Cotes Du Rhone Parallele,vkd,BEP,$25.16,false,Ankle structure division
+690,75,39,Wine - Baron De Rothschild,drq,TIME,$77.55,true,Destruct-hip lesion NEC
+691,74,48,Wine - Magnotta - Pinot Gris Sr,irj,ELON,$62.40,false,Ins/re pls gn no rechrg
+692,93,37,Wine - Rubyport,yom,PLAB,$93.97,false,Open reduc-knee dislocat
+693,99,29,Crackers - Trio,rhz,FLAG,$49.55,false,Polysomnogram
+694,81,47,Cheese - Goat,qsp,SVVC,$73.73,false,Cell blk/pap-upper urin
+695,87,46,"Pasta - Fettuccine, Dry",zsu,MCX,$13.33,true,Periren/vesicle excision
+696,69,31,Mustard - Pommery,xjx,CIL,$42.70,false,Remov urethral stent
+697,93,41,Lime Cordial - Roses,okl,FTXD,$18.38,false,Heterograft to skin
+698,97,46,Longos - Lasagna Veg,eqw,EXPE,$81.39,false,Tibia/fibula inj op NOS
+699,76,41,Tomatoes - Cherry,gkp,PBI,$50.11,true,C & s-endocrine
+700,98,45,Coriander - Seed,tzs,ISP,$51.48,false,Open red-sep epiphy NEC
+701,74,24,Onions - Red Pearl,bjn,AT,$65.26,false,Excis cyst duct remnant
+702,70,31,Plasticknivesblack,rhe,WAL,$72.58,true,Partial ostectomy NEC
+703,82,44,Tia Maria,nix,NDP,$89.55,true,Inject steroid
+704,87,34,Apple - Northern Spy,ndx,PKBK,$37.18,false,Limited consultation
+705,90,43,"Beans - Black Bean, Dry",sdm,SEV,$95.94,true,Keratoprosthesis
+706,95,45,Sambuca Cream,pti,GTLS,$76.50,true,Parasitology-peritoneum
+707,92,32,Beef - Eye Of Round,nbj,RETA,$31.13,true,Other fusion of foot
+708,70,39,Yokaline,gny,GMRE,$37.53,false,Arterial implant revasc
+709,72,35,Beer - Paulaner Hefeweisse,uen,MTR,$12.05,true,Percutaneous chordotomy
+710,70,27,Container - Foam Dixie 12 Oz,khl,ABY,$6.95,true,Hepatic duct-gi anastom
+711,75,38,Turkey - Ground. Lean,kvz,IMED,$19.35,false,Loc exc bone lesion NOS
+712,99,37,Steam Pan Full Lid,zju,SLB,$71.32,true,Nonmag remov ant seg FB
+713,67,38,Veal - Provimi Inside,qim,EVHC^,$38.41,true,Pericardial biopsy
+714,93,25,Puree - Kiwi,jmq,FFG,$3.03,true,Oth rep int cervical os
+715,83,28,Cranberries - Dry,xsl,ASYS,$81.88,false,Postop vasc op hem contr
+716,84,38,Watercress,qjz,QBAK,$37.76,false,Closed fx reduct humerus
+717,94,30,Rhubarb,lkj,AFSD,$57.88,false,Musc/fasc excis for grft
+718,92,25,"Stock - Veal, White",sgs,VEACW,$44.16,false,Cl red-int fix metac/car
+719,87,44,Thyme - Fresh,xoa,CERU,$12.35,true,Peripheral nerve suture
+720,79,25,Brandy - Bar,aam,CBX,$28.13,true,Other ext ear operations
+721,83,32,Anisette - Mcguiness,oox,NRP,$77.29,false,Metatar/tar division NEC
+722,69,37,Beets,hvw,YRCW,$11.49,false,Prolapsed iris excision
+723,95,25,Compound - Raspberry,sgp,PPC,$7.84,false,Thoracic vessel inc NEC
+724,77,47,"Beef - Bones, Cut - Up",dcs,FCFS,$75.48,true,Ureth stricture release
+725,92,27,Nantucket - 518ml,fxo,SLB,$36.16,true,Contr semin vesiculogram
+726,71,43,Wine - Winzer Krems Gruner,umb,HRB,$36.57,true,Thoracic duct op NEC
+727,94,46,Slt - Individual Portions,tmu,BNS,$68.16,true,Culture-lower resp
+728,74,33,Straws - Cocktale,pwv,YERR,$16.63,false,Ligation of ureter
+729,83,35,Coffee - Decaffeinato Coffee,srt,SPKEP,$54.55,true,Ankle arthroscopy
+730,72,35,Black Currants,jpv,FTAG,$80.64,true,Wound irrigation NEC
+731,90,27,"Juice - Clam, 46 Oz",bdu,NS^B,$55.47,true,Comb heart/lung transpla
+732,94,31,Soup - Campbells Chili,tsl,QHC,$14.37,false,Endo insrt colonic stent
+733,82,28,Dried Cherries,dxc,SSTK,$30.70,false,Delay sut flex tend hand
+734,91,40,Beer - Camerons Cream Ale,qdl,FLAT,$44.91,false,Tympanoplasty revision
+735,95,38,Wine - Segura Viudas Aria Brut,wvz,IRR,$38.38,false,Metacarpal/carpal biopsy
+736,77,40,Temperature Recording Station,uza,SSW^H,$7.30,false,Elbow arthroscopy
+737,68,38,"Syrup - Monin, Swiss Choclate",btw,EDR,$21.28,false,Repair ob lac rect/anus
+738,67,39,Bread Base - Gold Formel,mbw,CENT,$82.02,false,Uterine support op NEC
+739,93,48,"Chicken - Wings, Tip Off",shx,SEMG,$92.99,false,Int insert pacemak lead
+740,74,47,Toamtoes 6x7 Select,deq,NEA,$81.69,false,Hip synovectomy
+741,81,25,Yoghurt Tubes,mho,INFN,$50.06,false,Transplant hand musc NEC
+742,94,31,Peach - Fresh,wsd,ROSE,$43.03,false,Endo insrt bronc def/sub
+743,92,38,Sprouts - China Rose,csm,SLQD,$66.13,false,Partial shoulder replace
+744,78,24,Table Cloth 62x120 Colour,yej,JSYN,$33.30,true,Nasal sinus transillumin
+745,97,44,Uniform Linen Charge,lfk,SNSS,$12.15,true,Oth endo proc oth vessel
+746,88,33,Coconut - Whole,ceu,TURN,$3.02,false,C & s-bili/pancreas
+747,93,46,Towel Dispenser,ioh,SNC,$26.87,true,Repair rectovag fistula
+748,71,42,Juice - Lemon,dgs,PPHMP,$2.29,true,Arth/pros rem wo re-knee
+749,71,43,Veal - Loin,ghw,PZE,$98.12,true,Nephrocystanastomosi NOS
+750,69,37,Wine - Chardonnay South,mub,AMCX,$47.34,false,Opn dir ing hern-gft NEC
+751,90,39,Cookie Dough - Chunky,iiq,MMSI,$70.84,false,Parasitology-musculoskel
+752,70,32,Ginger - Pickled,hgg,RAS,$17.97,false,Other tibia/fibula incis
+753,84,41,Pastry - Carrot Muffin - Mini,ptq,DSE,$77.73,false,Unilat subq mammect NEC
+754,92,46,Cream - 18%,wvm,RKDA,$44.16,true,Bronch/trach lavage NEC
+755,95,25,Wine - Prem Select Charddonany,gxu,FBNK,$52.86,false,Fit lo arm/hand prosthes
+756,69,40,Wine - Malbec Trapiche Reserve,seh,JSYNU,$95.28,true,Percutan renal aspirat
+757,67,42,Potatoes - Mini White 3 Oz,qxa,IDXG,$70.85,true,Conduit left ventr-aorta
+758,89,46,Juice - Cranberry 284ml,epz,HPS,$64.89,true,Corneovitreal adhesiolys
+759,96,30,Mushroom - White Button,jwp,PGJ,$75.50,true,Other brain dx procedure
+760,70,37,Beef - Short Loin,qxc,CLSN,$52.72,false,Pulsation balloon implan
+761,72,40,Cheese - Ermite Bleu,ejz,MDCA,$69.70,true,Appl ext fix dev-patella
+762,84,40,Sausage - Liver,dnm,WBKC,$84.06,true,Thorac exc lung lesion
+763,86,28,Kellogs Raisan Bran Bars,koi,JMPB,$3.61,true,Urethral dx proc NEC
+764,89,30,Jack Daniels,ahc,ICBK,$82.04,false,Lap rev gast restri proc
+765,69,36,"Beef - Tongue, Cooked",mrv,AVGR,$8.01,true,Seminal vesicle excision
+766,79,44,Cookie Dough - Chocolate Chip,zll,MNR,$72.28,true,Paraurethral suspension
+767,96,37,"Pineapple - Canned, Rings",zbi,ISSC,$29.07,true,Bilat subq mammectom NEC
+768,94,48,Urban Zen Drinks,dzx,AQXP,$49.41,true,Secondary insert lens
+769,71,42,Tray - 12in Rnd Blk,wif,ROIC,$90.88,true,Ing hernia rep-graft NOS
+770,98,36,Icecream Cone - Areo Chocolate,yfd,FBSS,$17.78,false,Lingual frenectomy
+771,88,37,Propel Sport Drink,tqp,CORT,$59.86,false,Lap sigmoidectomy
+772,67,33,Spice - Pepper Portions,ssb,CFCOU,$88.41,true,Hemorrhoid procedure NEC
+773,93,36,"Soup - Campbells, Minestrone",sud,VTIP,$55.51,true,Other therapeu apheresis
+774,84,29,Cheese Cloth No 60,dnz,MB,$8.27,true,Appendicostomy
+775,94,40,Fork - Plastic,wzt,PSA^U,$69.98,false,Lap rev gast restri proc
+776,99,48,Wine - Zinfandel California 2002,dgr,DXJS,$24.96,false,"Imp crtd sinus stm,totl"
+777,83,37,Chick Peas - Dried,gxk,MLVF,$58.89,true,Appl ext fix-chest cage
+778,66,31,Lettuce - Treviso,kud,EVHC^,$80.67,true,Insert disc pros NOS
+779,94,30,Beer - Blue,lys,LNTH,$98.98,true,Perc ins intracran stent
+780,66,28,Quail - Jumbo,dud,ICLR,$5.75,true,Vessel resect/replac NOS
+781,71,44,Pork Casing,zwk,SIEB,$10.11,true,Open fx site debride NOS
+782,88,38,Cheese - Victor Et Berthold,nvj,UBA,$36.46,true,Other brain excision
+783,69,30,"Lemonade - Kiwi, 591 Ml",xuo,DGAS,$65.85,true,Ins bone void filler
+784,82,28,Langers - Cranberry Cocktail,iry,USB^M,$10.12,false,Iridectomy NEC
+785,81,31,"Loaf Pan - 2 Lb, Foil",mpa,CHMI,$78.83,false,Iridotomy NEC
+786,82,44,The Pop Shoppe - Root Beer,gwl,NTNX,$91.84,false,Esophageal repair NEC
+787,81,47,"Noodles - Cellophane, Thin",qho,GMRE,$42.75,true,Tympanic injection
+788,83,30,Dill Weed - Dry,xen,PGRE,$47.40,true,Radius & ulna biopsy
+789,79,34,Quail - Jumbo,qun,RENX,$80.39,false,Lap vertical gastrectomy
+790,67,31,Puff Pastry - Sheets,dqv,PFE,$86.70,false,Cl fx reduc-toe
+791,74,39,Ecolab - Hand Soap Form Antibac,afy,JPM^G,$67.72,false,Revise knee replace NOS
+792,96,28,Filling - Mince Meat,qwj,PNK,$70.02,false,Cell blk/pap-peritoneum
+793,76,42,Apple - Fuji,oxl,PGZ,$14.17,true,Spermatic cord incision
+794,79,33,"Wine - White, Concha Y Toro",bar,SABR,$88.81,false,Thoracic vessel excision
+795,86,31,Russian Prince,hgd,MXWL,$51.57,false,Parathyroid scan
+796,84,43,"Arctic Char - Fresh, Whole",ubr,SHO^F,$32.93,false,Thorac sm bowel interpos
+797,81,32,Pepper - Red Bell,qnb,WTFCW,$18.11,false,Bone graft to femur
+798,75,37,Olives - Nicoise,vwd,MBUU,$83.84,false,Exc lacrimal gland NOS
+799,82,26,Hersey Shakes,kdt,DKS,$72.47,true,Neuroleptic therapy
+800,69,44,French Kiss Vanilla,xik,FB,$16.50,true,Neurolyt injec-symp nrv
+801,85,27,Sour Cream,ape,BIOA,$34.92,false,Intravascul imaging NOS
+802,98,29,Puree - Pear,oed,AIN,$32.74,true,Polio vaccine administra
+803,79,39,Plums - Red,opi,FSC,$37.74,true,Simpl aspir lens extract
+804,76,33,Pheasants - Whole,vge,CP,$97.06,true,Bact smear-musculoskel
+805,95,29,Breadfruit,xlz,CBZ,$76.09,true,Bladder operation NEC
+806,89,27,Amarula Cream,zty,FII,$30.81,false,Refus oth cervcl ant/ant
+807,88,24,"Bread - Bagels, Plain",vpw,OXLC,$88.32,false,Lap abltn liver les/tiss
+808,84,42,Compound - Rum,yno,BBT^H,$14.38,true,Oth bone repa/plast NEC
+809,78,41,Pasta - Fusili Tri - Coloured,pkd,AGI,$16.89,true,Insert/replace EVD
+810,96,25,Muffin Mix - Chocolate Chip,zww,MMDM,$54.02,false,Spectacle fit & dispense
+811,91,25,Ham - Black Forest,vxe,TRCO,$74.66,false,Insert sphenoid electrod
+812,74,29,Soup V8 Roasted Red Pepper,vdt,GPIAW,$98.41,true,Intracranial 02 monitor
+813,87,29,"Salmon - Atlantic, No Skin",zxo,NYMX,$26.31,true,Keratomileusis
+814,90,25,Croissants Thaw And Serve,rsu,GNMX,$51.01,false,Micro exam-endocrine NEC
+815,94,39,Lamb - Sausage Casings,qze,SIRI,$32.67,true,Destroy fallop tube les
+816,76,45,"Pepper - Black, Whole",pck,GWB,$67.86,false,Transab lg bowel endosc
+817,93,31,Wine - Piper Heidsieck Brut,hpf,ICFI,$78.26,false,Suture scrotal lacerat
+818,67,31,Broom Handle,non,NYCB,$35.38,false,Bilateral adrenalectomy
+819,96,38,Kaffir Lime Leaves,fgg,TSCO,$34.27,true,Excise cord/epid les NEC
+820,71,32,Magnotta Bel Paese Red,bnq,ZB^H,$56.26,false,Reconstruction of penis
+821,80,38,Cheese - Fontina,dvz,TRCO,$79.97,true,Other tracheal repair
+822,86,36,Syrup - Kahlua Chocolate,sbd,GASS,$17.82,true,Colonoscopy
+823,93,34,Sausage - Andouille,jjc,RMTI,$75.53,true,Cell blk/pap-lower GI
+824,71,34,Sugar Thermometer,pyu,FTSL,$1.93,false,Fus/refus 4-8 vertebrae
+825,79,25,Cheese - Oka,gkd,VPG,$74.67,false,Ethmoidectomy
+826,66,45,Tea - Grapefruit Green Tea,hdm,OPHT,$4.85,true,Tonsil&adenoid dx op NEC
+827,90,43,Beef - Flank Steak,jhb,WVFC,$33.97,false,Vesicostomy
+828,92,42,Wine - Zonnebloem Pinotage,zan,FCCY,$70.12,false,Repair heart assist sys
+829,93,31,External Supplier,zud,WAT,$29.75,true,Cornea reconstruct NEC
+830,92,28,Wine - Manischewitz Concord,woa,RILYZ,$65.61,false,Distal pancreatectomy
+831,71,41,Shrimp - Prawn,alx,ZX,$38.76,false,Epikeratophakia
+832,71,33,Apricots - Dried,ucx,CSQ,$15.46,true,Delay sut hand tend NEC
+833,67,36,Rosemary - Fresh,xwn,NMK^B,$47.92,false,Retroperit dissect NOS
+834,97,29,Wine - Soave Folonari,jgy,GF,$1.65,false,Other speech therapy
+835,84,24,"Pasta - Fusili, Dry",wqm,MYCC,$22.52,true,Ext ear diagnos proc NEC
+836,84,42,White Fish - Filets,uku,PCYO,$51.88,false,Nasolac duct intubat
+837,90,34,"Juice - Pineapple, 341 Ml",fmz,IGD,$15.73,false,Uterine repair NEC
+838,87,27,Wine - Guy Sage Touraine,uai,KALU,$65.12,true,Post nasal pac for epist
+839,99,45,Pastry - Chocolate Marble Tea,cty,EXXI,$37.05,true,Thor vessel resect/anast
+840,75,33,Pear - Asian,qia,WBS^E,$56.55,false,Bilateral nephrectomy
+841,97,38,Trout Rainbow Whole,qwf,FFHL,$58.55,true,Bone graft to femur
+842,98,34,Muffin Hinge - 211n,gqa,AFC,$60.42,true,Narcoanalysis
+843,83,26,Radish,ocd,NYCB^U,$95.37,true,Oth tib/fib repair/plast
+844,69,25,"Sauce - Bernaise, Mix",kfp,HRMNW,$56.35,false,Excis radius/ulna-graft
+845,82,41,Pails With Lids,jlq,BAS,$47.26,true,Lithium therapy
+846,85,31,Smoked Paprika,hpz,IPHI,$54.65,false,Resect ext seg lg bowel
+847,79,40,Bacardi Raspberry,eho,SSTK,$87.27,true,Int drain pancreat cyst
+848,86,28,Pastry - Banana Tea Loaf,naq,SHOO,$21.71,true,Operation on eyeball NEC
+849,87,39,Horseradish Root,rjp,Q,$89.58,false,Perianal excision NEC
+850,85,24,Island Oasis - Mango Daiquiri,yne,NATI,$28.53,false,Lg-to-lg bowel anastom
+851,66,47,"Salmon - Smoked, Sliced",beg,CPB,$80.17,true,Pacemaker impedance chck
+852,82,28,Mushroom Morel Fresh,elb,KSM,$74.93,true,Excis cul-de-sac lesion
+853,78,26,"Basil - Primerba, Paste",rur,FWONK,$51.02,false,Perivesical incision NEC
+854,91,40,Cheese - Mascarpone,mwx,ATRA,$40.10,true,Destruc-elbow lesion NEC
+855,77,42,Soup - Campbells,xzy,GBLI,$76.06,true,Remov pancreatic tube
+856,85,33,Cake - Lemon Chiffon,mrv,IO,$64.33,true,Bone grft to metacar/car
+857,81,44,Soup - Cream Of Potato / Leek,rqk,SITE,$79.12,true,Closed mitral valvotomy
+858,82,48,"Cheese - Manchego, Spanish",exa,DLHC,$18.38,true,Culture-integument
+859,87,26,Macaroons - Two Bite Choc,rfd,RAIL,$86.85,false,Anal fistulectomy
+860,76,32,Towels - Paper / Kraft,yeg,SYRS,$65.32,true,Circumcision
+861,89,40,Bread - French Baquette,oet,EQC,$78.99,false,Appendicostomy
+862,79,48,Beans - Fava Fresh,qdl,CBX,$45.31,false,Urin incontin repair NEC
+863,97,25,Wonton Wrappers,bur,JXSB,$74.06,false,Manual rupt joint adhes
+864,90,32,"Ranchero - Primerba, Paste",hig,PMO,$35.83,true,Spinal cord adhesiolysis
+865,76,25,Foil - 4oz Custard Cup,pfn,TCRD,$85.09,true,Reduce renal pedicl tors
+866,66,41,Oneshot Automatic Soap System,jpf,VREX,$40.90,true,Thoracic duct fistulizat
+867,66,27,"Cheese - Brie,danish",byj,CTDD,$44.69,false,Enuc socket revis NEC
+868,87,38,Bar Nature Valley,jtw,ARES,$93.50,false,IVUS peripheral vessels
+869,87,34,"Bread - Bagels, Plain",qiv,BONT,$74.92,false,Stern esophagocolos NEC
+870,77,30,Dc - Sakura Fu,qkq,BXMX,$54.23,false,Remov pros mat post seg
+871,99,33,Wine - Duboeuf Beaujolais,fuw,COF.WS,$53.71,false,Shorten 1 extraoc musc
+872,72,42,"Pineapple - Canned, Rings",prt,PDS,$65.91,false,Rad dissect iliac nodes
+873,79,27,Frangelico,hri,ECOL,$31.69,false,Insert gastric bubble
+874,70,32,Pork Casing,jdi,NRT,$44.44,false,Intracran pressure montr
+875,77,39,Bread - English Muffin,tyy,BAC,$78.95,false,Gas hysterosalpingogram
+876,95,28,Ice Cream - Chocolate,iht,CERS,$60.90,false,Perc abltn lung les/tiss
+877,70,37,Soup - Campbells Chicken,vvw,CLPR,$12.16,true,Cruciate lig repair NEC
+878,94,37,Flower - Carnations,xeh,NLY^E,$20.91,true,Suture of tongue lacerat
+879,72,48,Seaweed Green Sheets,pxr,APTI,$87.22,true,Cath drain-pancreat cyst
+880,95,30,Mudslide,rwh,MTR,$49.39,true,Thorac esophagocolos NEC
+881,97,41,Parsley Italian - Fresh,xqr,DST,$84.08,true,Excision of uvula
+882,88,34,Sausage - Blood Pudding,dcj,DST,$15.78,true,Destruc bartholin gland
+883,98,36,Wine - Cava Aria Estate Brut,qnk,GRAM,$20.26,false,Spine canal struc op NEC
+884,70,48,Beer - Upper Canada Lager,dgj,COF^G,$17.60,true,Part ostect-radius/ulna
+885,93,37,"Tray - Foam, Square 4 - S",jwp,PFLT,$78.95,false,Thermocaut cornea lesion
+886,80,31,Juice - Cranberry 284ml,vva,ARI^A,$85.29,true,Pt exercise NEC
+887,68,28,Wine - Vouvray Cuvee Domaine,keg,REVG,$63.88,false,Vent shunt extracran NEC
+888,79,46,Ham - Proscuitto,ejm,ABR^C,$1.86,false,Ins intra-ansm pres mntr
+889,80,25,"Wine - Mas Chicet Rose, Vintage",xbb,ESCA,$2.08,false,Occupational therapy
+890,99,28,Pork - Ham Hocks - Smoked,eau,GIMO,$44.36,false,Bladder neck dilation
+891,93,41,Sage Ground Wiberg,fdk,VBF,$88.03,false,Replace cast NEC
+892,79,46,"Chicken - Thigh, Bone In",ibc,PSC,$40.23,false,Hand muscle reattachment
+893,83,30,Chicken - Base,slp,ECCZ,$59.74,false,Replace wound pack/drain
+894,86,24,"Tendrils - Baby Pea, Organic",htq,GLBS,$49.93,true,Midtarsal fusion
+895,88,40,Kellogs Special K Cereal,gae,PLNT,$92.31,true,Salivary fistula closure
+896,95,44,Beer - Camerons Cream Ale,oag,IHIT,$30.82,true,Oth conjunc destruc proc
+897,70,28,Cranberries - Fresh,bun,CFFN,$53.08,false,Destruct joint les NEC
+898,98,39,Beef - Eye Of Round,htj,GEK,$41.64,false,Metatar/tar wedg osteot
+899,85,42,"Juice - Tomato, 48 Oz",fmq,LEA,$41.31,false,Mesenteric repair NEC
+900,98,26,Jam - Raspberry,pkx,SNI,$75.43,true,Int insert lead in vent
+901,96,43,Yukon Jack,hmc,FLXN,$67.98,false,Close red-humerus epiphy
+902,76,41,Ecolab - Balanced Fusion,wmr,HPP,$79.31,false,Adrenal nerve division
+903,82,40,"Pineapple - Canned, Rings",ipf,PPBI,$35.07,true,Remov other urin device
+904,79,48,"Rum - Light, Captain Morgan",hpu,ADS,$62.36,false,Hemorrhoid evacuation
+905,69,35,Juice - Ocean Spray Kiwi,mub,C^C,$72.22,true,Micro exam-spln/marr NEC
+906,98,29,"Soup - Knorr, French Onion",rcg,FIX,$57.53,true,Excis spinal cord lesion
+907,92,44,Cake - French Pear Tart,tkt,CTIB,$19.49,false,Open red-int fix humerus
+908,80,32,Syrup - Monin - Granny Smith,ugz,RUN,$33.74,false,Lg bowel exteriorization
+909,73,47,Graham Cracker Mix,xxv,ZIXI,$3.95,false,Endo robotic assist proc
+910,83,28,Shichimi Togarashi Peppeers,gnb,PYT,$55.57,true,Micro exam-upper GI NEC
+911,75,28,Currants,tse,AMH^A,$45.99,false,Large bowel incision
+912,96,25,Scallops 60/80 Iqf,aqw,JWN,$3.40,false,Culture-peritoneum
+913,71,33,Wine - Taylors Reserve,ikb,CNXN,$96.02,false,Revise disc prosth NOS
+914,99,31,"Wine - Magnotta - Red, Baco",bia,DECK,$26.76,false,Insert indwelling cath
+915,67,32,Glass Clear 8 Oz,rlc,MACK,$4.82,false,Jt structur division NEC
+916,89,27,Mousse - Passion Fruit,opg,GS^A,$67.55,true,Oth arthrotomy-ankle
+917,84,28,Cabbage - Savoy,lml,LOCO,$39.76,true,Total abd hyst NEC/NOS
+918,91,28,"Pepsi - Diet, 355 Ml",wln,MEI,$20.56,true,Diather/cryo turbinectom
+919,88,35,Lamb - Shanks,jgf,ADS,$70.75,false,Biliary tract x-ray NEC
+920,72,46,Mint - Fresh,cbe,OSTK,$19.29,true,Eyeball evisceration NEC
+921,91,47,Butter Sweet,tro,PH,$10.02,false,Nephroscopy
+922,78,33,Tea - Earl Grey,xtu,CBMXW,$44.23,true,Occlude thoracic ves NEC
+923,90,43,Pickerel - Fillets,cmu,CVA,$39.02,false,Limb lengthn-metatar/tar
+924,74,41,"Tortillas - Flour, 10",uhh,SELB,$34.61,true,Laryngeal fx repair
+925,80,28,Rabbit - Saddles,lio,HIIQ,$91.02,false,Intracranial 02 monitor
+926,89,41,"Bread - Pullman, Sliced",rrg,MVO,$25.76,false,Mediastinoscopy
+927,77,39,Sachet,pub,DS^C,$86.36,false,Unil femor hrn rep-grft
+928,78,39,Onion - Dried,pyx,TENX,$31.26,true,Insert sphenoid electrod
+929,71,32,Cookies - Englishbay Wht,xta,DSX^B,$58.19,true,Int insert dual-cham dev
+930,92,24,Pasta - Angel Hair,dkg,SPXC,$81.50,true,Psychiat mental determin
+931,73,32,"Star Anise, Whole",tqx,CC,$54.02,false,Sex transformat op NEC
+932,68,27,Food Colouring - Green,yoe,BBY,$25.24,true,Other perm tracheostomy
+933,68,37,Chicken - Livers,byg,FIXD,$95.52,true,Endo insrt colonic stent
+934,70,44,"Salmon - Smoked, Sliced",zam,EHIC,$9.83,false,Oth cerv fusion ant/ant
+935,92,42,Table Cloth 91x91 Colour,pqk,WCG,$50.43,true,Retropubic ureth suspens
+936,74,32,"Syrup - Monin, Amaretta",lxd,SAP,$44.30,false,Pericardiectomy
+937,83,30,Food Colouring - Blue,muh,NYNY,$63.36,false,Fasciotomy
+938,74,25,Ecolab - Power Fusion,thf,CPS,$63.75,false,Limb shorten-metacar/car
+939,93,34,Wine - Trimbach Pinot Blanc,uzy,TIG,$70.82,true,Septoplasty NEC
+940,74,40,Beer - Paulaner Hefeweisse,plh,FFC,$38.39,true,Wedge osteotomy NOS
+941,69,24,Wine - Piper Heidsieck Brut,svd,ACCO,$87.96,false,Periurethral incision
+942,97,37,Apricots - Halves,awr,ACFC,$42.05,false,Partial ostectomy NEC
+943,85,30,Pork - Shoulder,nxg,GSUM,$21.74,false,Other vaginal dilation
+944,97,27,Ice Cream - Life Savers,ojl,KCAP,$61.77,true,Thorac drain pleurl cav
+945,68,36,Sauce - Alfredo,ibk,SGEN,$97.18,true,Inject rh immune globul
+946,84,34,Hipnotiq Liquor,eno,CLFD,$25.60,false,SuperSat O2 therapy
+947,80,32,Pork - Backs - Boneless,oud,CSRA,$83.59,true,Oth totl excision thymus
+948,87,43,Truffle Cups Green,rzb,KFFB,$2.81,false,Unil ext rad mastectomy
+949,77,32,Bok Choy - Baby,jwe,RNP,$13.53,true,Chest cage bone biopsy
+950,68,37,"Jam - Raspberry,jar",isg,SNY,$37.29,false,Ureteral operation NEC
+951,86,35,Swiss Chard - Red,hgc,LCUT,$4.99,false,Endosc retro cholangiopa
+952,97,35,Kellogs Cereal In A Cup,dey,ELLI,$31.40,false,Abdominal artery excis
+953,85,37,Potato - Sweet,qwm,PEB,$24.76,true,Diather/cryo turbinectom
+954,85,33,Dried Figs,xzt,LHO,$34.52,false,Trnsplnt live rel donor
+955,68,35,Samosa - Veg,waj,HMTV,$50.87,true,Partial nephrectomy
+956,96,48,Foam Tray S2,lvz,CLD,$11.78,true,Retroperitoneal xray NEC
+957,85,30,Mahi Mahi,omq,GPE^A,$93.39,false,Sm bowel dx proc NEC
+958,92,27,"Capon - Breast, Double, Wing On",jum,UMH^B,$23.03,true,Gum biopsy
+959,93,40,Cookie Choc,xrn,PSDO,$43.03,true,Transpleura thoracoscopy
+960,71,35,"Veal - Brisket, Provimi, Bone - In",ktb,CPST,$70.93,true,Angio oth non-coronary
+961,69,39,Pants Custom Dry Clean,vbw,CLNT,$52.04,true,Arterial implant revasc
+962,99,32,Pepper - Yellow Bell,wuz,YRCW,$25.85,true,Larynx cyst marsupializ
+963,81,48,Veal - Ground,mte,ROSE,$17.24,false,Non-op hearing proc NEC
+964,91,47,Wine - Lou Black Shiraz,ncu,AHC,$67.83,true,Cardiac stress test NEC
+965,70,41,Cake - French Pear Tart,meu,PFE,$44.88,true,Tot ostect-radius/ulna
+966,83,36,Food Colouring - Blue,bbu,WNEB,$1.85,false,Ovarian dx procedure NEC
+967,96,39,Quinoa,ssh,SOCL,$41.09,false,Contr mammary ductogram
+968,77,24,Olives - Nicoise,dbm,VTWG,$26.13,true,Open coronry angioplasty
+969,78,39,"Cup - 6oz, Foam",wdv,OHGI,$21.04,false,Adrenal repair
+970,68,46,Zucchini - Green,ofi,CAE,$64.60,false,Abdomen artery incision
+971,71,26,Appetizer - Lobster Phyllo Roll,myi,GLNG,$17.79,true,Heart septa repair NOS
+972,80,26,Rice - Basmati,nmk,PLYA,$50.69,true,Inj/inf platelet inhibit
+973,78,31,Milkettes - 2%,loa,OLP,$57.77,true,Manl reduct stoma prolap
+974,69,35,Sauce - Balsamic Viniagrette,wgt,SHPG,$23.52,false,Shoulder disarticulation
+975,91,43,Tomatoes Tear Drop Yellow,tye,PATI,$9.34,false,App ext fix dev-ring sys
+976,99,30,"Coffee - Colombian, Portioned",ese,AI^B,$28.33,false,Comb heart/lung transpla
+977,77,46,Soup - French Can Pea,tys,BLX,$51.42,false,Nasal sept grft-epistax
+978,96,35,Cookie Chocolate Chip With,icf,NZF,$44.24,true,Open fx site debride NOS
+979,96,45,Wine - Casillero Del Diablo,esn,BMRC,$67.65,true,Remove int fix face bone
+980,98,25,Strawberries - California,fxt,LRN,$66.27,false,Sm bowel endoscopy NEC
+981,98,39,Salad Dressing,bxl,SVU,$13.07,true,Toe injury operation NOS
+982,90,46,Shrimp - Black Tiger 16/20,vby,PSA^D,$48.66,true,Oth intraop mag res imag
+983,97,47,Icecream Cone - Areo Chocolate,vuc,LEN,$89.64,true,Esophagostomy NOS
+984,87,34,Rolled Oats,izo,CCMP,$47.98,false,Removal peri stim lead
+985,82,28,"Apple - Delicious, Red",fju,AHPAW,$27.21,false,Pancreat transplant NOS
+986,85,34,Sole - Fillet,uys,NMT,$77.23,true,Shorten 1 extraoc musc
+987,97,38,"Iced Tea - Lemon, 340ml",ozb,RESN,$68.32,false,Adrenal incision
+988,97,47,Pear - Prickly,hpp,UTHR,$57.77,true,Insert colonic stent NEC
+989,75,43,"Juice - Clam, 46 Oz",cdh,LCAHU,$84.44,false,Local gastr excision NEC
+990,84,26,Mint - Fresh,plg,MIND,$63.33,false,Culture-musculoskeletal
+991,69,41,Wine - Merlot Vina Carmen,qdo,MACQU,$48.74,false,Cul-de-sac biopsy
+992,88,30,Wine - Vovray Sec Domaine Huet,blg,NYMTO,$2.35,true,X-ray NEC and NOS
+993,67,25,Ice Cream - Strawberry,tvt,NSC,$37.42,true,Oth arthrotomy-wrist
+994,86,29,Soup - Campbells Tomato Ravioli,ods,SDT,$23.72,true,Metacarp/carp inj op NOS
+995,88,41,Wasabi Paste,nlg,FLKS,$70.36,true,Occlude thoracic ves NEC
+996,66,41,"Lentils - Red, Dry",oqs,AEK,$49.45,false,Unilat rad neck dissect
+997,97,47,"Pork - Butt, Boneless",tez,JBSS,$11.71,false,Gastrostomy closure
+998,66,40,Wine - Pinot Noir Mondavi Coastal,yvn,XON,$72.45,true,Unilat thyroid lobectomy
+999,92,36,Fudge - Cream Fudge,qvl,ESGG,$1.18,false,Allo hem stem ct w purg
+1000,85,36,Halibut - Steaks,olf,STAA,$23.42,true,C & s-musculoskeletal
