@@ -109,10 +109,9 @@ class Graphs():
         plt.ylabel("Compras")
         plt.show()
 
-    '''
     def saveGraph(self, filter, GRAPHS):
         for graph in GRAPHS:
             if filter.get() == graph:
                 graphName = graph+'.png'
                 imageName = graphName.replace(' ','_') 
-                plt.savefig(imageName)'''
+                plt.savefig(imageName)

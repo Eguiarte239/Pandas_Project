@@ -39,5 +39,8 @@ if __name__ == '__main__':
     listboxData = tk.Listbox(mw)
     listboxData.grid(padx = 50, pady= 75)
     listboxData.config(width=65, height=20)
+
+    btnSaveGraphs = tk.Button(text='Descargar gráfica', command=lambda: graphsObject.saveGraph(selectGraph, OPTIONS))
+    btnSaveGraphs.place(x = 250, y = 520, width=130, height=35)
     
     mw.mainloop()
