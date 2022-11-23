@@ -1,12 +1,15 @@
+# Modules that will be used
 from tkinter import END
 from tkinter.ttk import *
 import pandas as pd
 from matplotlib import pyplot as plt
 
+# Define our class to generate all Graphs
 class Graphs():
     def __init__(self):
         pass
-
+    
+    # Get the option selected anc compare it to the tuple to call the correct method and then generate a graph
     def graphSelected(self, filter, GRAPHS, df):
         if filter.get() == GRAPHS[0]:
             self.firstGraph(GRAPHS, df)
@@ -26,15 +29,21 @@ class Graphs():
         elif filter.get() == GRAPHS[5]:
             self.sixthGraph(GRAPHS, df)
         
+    # From now on it's pretty much the same for every method
     def firstGraph(self, GRAPHS, df):
+        # Define a date range to get info from that range
         df['fecha'] = pd.date_range('11/22/2016', periods=1000, freq='D')
         mask = (df['fecha'] > '11/21/2017') & (df['fecha'] <= '11/21/2022')
+        # Get certain info that appears the most in that range, convert that info into a dict to manipulate it in a better way
         newDF = dict(df.loc[mask].value_counts(df['codigo_producto'])[:5])
+        # The next five rows are for generate a correct graph (no empty values in the X axis)
         x = range(len(newDF.keys()))
         fig, ax = plt.subplots()
+        # This row in specific is to setup the info that will be shown in the X axis and Y axis
         ax.bar(x, newDF.values())
         ax.set_xticks(x)
         _ = ax.set_xticklabels(newDF.keys())
+        # Set the graph name based on the option selected. Give the X axis and Y axis a label and show the graph in a new window
         plt.title(GRAPHS[0])
         plt.xlabel('Producto')
         plt.ylabel("Cantidad")
@@ -109,9 +118,12 @@ class Graphs():
         plt.ylabel("Compras")
         plt.show()
 
+    # With this method you'll be able to donwload the graph in the same folder where you have the code
     def saveGraph(self, filter, GRAPHS):
+        # See through the options to get a match
         for graph in GRAPHS:
             if filter.get() == graph:
+                # Replace empty spaces with _ to create the name of the PNG file and save it
                 graphName = graph+'.png'
                 imageName = graphName.replace(' ','_') 
                 plt.savefig(imageName)

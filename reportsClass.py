@@ -1,11 +1,14 @@
+# Modules that will be used
 from tkinter import END
 from tkinter.ttk import *
 import pandas as pd
 
+# Define our class to generate all reports
 class Reports():
     def __init__(self):
         pass
 
+    # Get the option selected anc compare it to the tuple to call the correct method and then generate a report
     def reportSelected(self, filter, OPTIONS, df, listbox):
         if filter.get() == OPTIONS[0]:
             self.firstReport(df, listbox)
@@ -25,11 +28,16 @@ class Reports():
         elif filter.get() == OPTIONS[5]:
             self.sixthReport(df, listbox)
         
+    # From now on it's pretty much the same for every method
     def firstReport(self, df, listbox):
+        # Clear the listbox before inserting info
         listbox.delete(0,END)
+        # Define a date range to get info from that range
         df['fecha'] = pd.date_range('11/22/2016', periods=1000, freq='D')
         mask = (df['fecha'] > '11/21/2017') & (df['fecha'] <= '11/21/2022')
+        # Get certain info that appears the most in that range, convert that info into a dict to manipulate it in a better way
         newDF = dict(df.loc[mask].value_counts(df['codigo_producto'])[:5])
+        # Search through the entire dict to insert every value into the listbox and generate a report with the info retrieved
         for key, value in newDF.items():
             listbox.insert(END, '--------------------------------------------------------')
             listbox.insert(END, ("Cantidad de productos vendidos: "+str(value)))
