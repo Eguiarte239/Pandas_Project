@@ -4,6 +4,7 @@ from tkinter.ttk import *
 import ctypes
 import pandas as pd
 import graphsClass
+import reportsClass
 
 if __name__ == '__main__':
 
@@ -12,27 +13,28 @@ if __name__ == '__main__':
     df = pd.read_csv('pedido.csv')
 
     graphsObject = graphsClass.Graphs()
+    reportsObject = reportsClass.Reports()
 
-    GRAPHS = ('Productos más vendidos (5 años)', 'Montos (3 meses)', 'Clientes-producto más vendido (5 años)', 'Empleados con más ventas (Último mes)', 'Productos más solicitados (primer semestre)', 'Clientes frecuentes (primer semestre)')
+    OPTIONS = ('Productos más vendidos', 'Montos', 'Clientes-producto más vendido', 'Empleados con más ventas', 'Productos más solicitados', 'Clientes frecuentes')
 
     mw = tk.Tk()
     mw.title('Proyecto')
     mw.geometry("630x600") 
     mw.resizable(0, 0)
 
-    selectGraph = ttk.Combobox(mw,value=GRAPHS, width=33)
+    selectGraph = ttk.Combobox(mw,value=OPTIONS, width=24)
     selectGraph.set('Gráficas')
     selectGraph.place(x = 60, y = 15)
 
-    btnGraphs = tk.Button(text='Gráficas', command= lambda: graphsObject.graphSelected(selectGraph, GRAPHS, df, listboxData))
+    btnGraphs = tk.Button(text='Gráficas', command= lambda: graphsObject.graphSelected(selectGraph, OPTIONS, df))
     btnGraphs.place(x = 120, y = 45, width=100, height=25)
-    
-    btnSecFilter = tk.Button(text='Reportes', command='')
-    btnSecFilter.place(x = 420, y = 45, width=100, height=25)
 
-    comboboxSecFilter = ttk.Combobox(mw,value='')
-    comboboxSecFilter.set('Filtrado')
-    comboboxSecFilter.place(x = 378, y = 15)
+    selectReport = ttk.Combobox(mw,value=OPTIONS, width=24)
+    selectReport.set('Reportes')
+    selectReport.place(x = 378, y = 15)
+    
+    btnReports = tk.Button(text='Reportes', command= lambda: reportsObject.reportSelected(selectReport, OPTIONS, df, listboxData))
+    btnReports.place(x = 420, y = 45, width=100, height=25)
 
     listboxData = tk.Listbox(mw)
     listboxData.grid(padx = 50, pady= 75)
