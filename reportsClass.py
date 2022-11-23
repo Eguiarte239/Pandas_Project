@@ -8,24 +8,24 @@ class Reports():
     def __init__(self):
         pass
 
-    # Get the option selected anc compare it to the tuple to call the correct method and then generate a report
-    def reportSelected(self, filter, OPTIONS, df, listbox):
-        if filter.get() == OPTIONS[0]:
+    # Get the option selected and call the correct method to generate a report
+    def reportSelected(self, options, df, listbox):
+        if options.current() == 0:
             self.firstReport(df, listbox)
     
-        elif filter.get() == OPTIONS[1]:
+        elif options.get() == 1:
             self.secondReport(df, listbox)
 
-        elif filter.get() == OPTIONS[2]:
+        elif options.get() == 2:
             self.thirdReport(df, listbox)
         
-        elif filter.get() == OPTIONS[3]:
+        elif options.get() == 3:
             self.fourthReport(df, listbox)
         
-        elif filter.get() == OPTIONS[4]:
+        elif options.get() == 4:
             self.fifthReport(df, listbox)
         
-        elif filter.get() == OPTIONS[5]:
+        elif options.get() == 5:
             self.sixthReport(df, listbox)
         
     # From now on it's pretty much the same for every method
@@ -86,3 +86,14 @@ class Reports():
         for key, value in newDF.items():
             listbox.insert(END, '--------------------------------------------------------')
             listbox.insert(END, ("Clientes frecuentes del primer semestre: "+str(key)))
+    
+    # With this method you'll be able to donwload the report in the same folder where you have the code
+    def saveReport(self, options, listbox):
+        # Generate a name for the file using the current report generated
+        reportName = options.get()
+        fileName = reportName.replace(' ','_')
+        # Create a new txt file and write all the content from the listbox in it
+        with open(fileName+'.txt','w',encoding='utf8') as report:
+           for item in listbox.get(0, END):
+            report.write(item+'\n')
+                
