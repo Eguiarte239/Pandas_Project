@@ -33,7 +33,7 @@ if __name__ == '__main__':
     selectGraph.set('Gráficas')
     selectGraph.place(x = 60, y = 15)
 
-    # Button to generate a graph based on an option selected. Will send the option selected, tuple and file to generate the correct graph
+    # Button to generate a graph based on an option selected. Will send the option selected and file to generate the correct graph
     btnGraphs = tk.Button(text='Gráficas', command= lambda: graphsObject.graphSelected(selectGraph, df))
     btnGraphs.place(x = 120, y = 45, width=100, height=25)
 
@@ -42,7 +42,7 @@ if __name__ == '__main__':
     selectReport.set('Reportes')
     selectReport.place(x = 378, y = 15)
     
-    # Button to generate a report based on an option selected. Will send the option selected, tuple, listbox and file to generate the correct report inside listbox
+    # Button to generate a report based on an option selected. Will send the option selected, listbox and file to generate the correct report inside listbox
     btnReports = tk.Button(text='Reportes', command= lambda: reportsObject.reportSelected(selectReport, df, listboxData))
     btnReports.place(x = 420, y = 45, width=100, height=25)
 

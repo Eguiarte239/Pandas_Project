@@ -13,19 +13,19 @@ class Reports():
         if options.current() == 0:
             self.firstReport(df, listbox)
     
-        elif options.get() == 1:
+        elif options.current() == 1:
             self.secondReport(df, listbox)
 
-        elif options.get() == 2:
+        elif options.current() == 2:
             self.thirdReport(df, listbox)
         
-        elif options.get() == 3:
+        elif options.current() == 3:
             self.fourthReport(df, listbox)
         
-        elif options.get() == 4:
+        elif options.current() == 4:
             self.fifthReport(df, listbox)
         
-        elif options.get() == 5:
+        elif options.current() == 5:
             self.sixthReport(df, listbox)
         
     # From now on it's pretty much the same for every method
@@ -40,8 +40,7 @@ class Reports():
         # Search through the entire dict to insert every value into the listbox and generate a report with the info retrieved
         for key, value in newDF.items():
             listbox.insert(END, '--------------------------------------------------------')
-            listbox.insert(END, ("Cantidad de productos vendidos: "+str(value)))
-
+            listbox.insert(END, ("Código del producto: "+str(key)), ("Cantidad de productos vendidos: "+str(value)))
     def secondReport(self, df, listbox):
         listbox.delete(0,END)
         df['fecha'] = pd.date_range('8/21/2022', periods=1000, freq='D')
@@ -58,7 +57,7 @@ class Reports():
         newDF = dict(df.loc[mask].value_counts(df['codigo_cliente'])[:5])
         for key, value in newDF.items():
             listbox.insert(END, '-------------------------------------------------------------------------------')
-            listbox.insert(END, ("Cliente que ha comprado el producto más vendido en cinco años: "+str(key)))
+            listbox.insert(END, ("Cliente que ha comprado el producto más vendido en cinco años: "+str(key)), ("Cantidad de veces que ha comprado: "+str(value)))
     
     def fourthReport(self, df, listbox):
         listbox.delete(0,END)
@@ -67,7 +66,7 @@ class Reports():
         newDF = dict(df.loc[mask].value_counts(df['codigo_empleado']))
         for key, value in newDF.items():
             listbox.insert(END, '--------------------------------------------------------')
-            listbox.insert(END, ("Empleados con más ventas: "+str(key)))
+            listbox.insert(END, ("Código de empleado con más ventas: "+str(key)), ("Cantidad de ventas: "+str(value)))
     
     def fifthReport(self, df, listbox):
         listbox.delete(0,END)
@@ -76,7 +75,7 @@ class Reports():
         newDF = dict(df.loc[mask].value_counts(df['codigo_producto']))
         for key, value in newDF.items():
             listbox.insert(END, '--------------------------------------------------------')
-            listbox.insert(END, ("Artículos más solicitados del primer semestre: "+str(key)))
+            listbox.insert(END, ("Código de los artículos más solicitados del primer semestre: "+str(key)), ("Cantidad de pedidos: "+str(value)))
     
     def sixthReport(self, df, listbox):
         listbox.delete(0,END)
@@ -85,7 +84,7 @@ class Reports():
         newDF = dict(df.loc[mask].value_counts(df['codigo_cliente']))
         for key, value in newDF.items():
             listbox.insert(END, '--------------------------------------------------------')
-            listbox.insert(END, ("Clientes frecuentes del primer semestre: "+str(key)))
+            listbox.insert(END, ("Código de clientes frecuentes del primer semestre: "+str(key)), ("Cantidad de veces que compraron: "+str(value)))
     
     # With this method you'll be able to donwload the report in the same folder where you have the code
     def saveReport(self, options, listbox):
