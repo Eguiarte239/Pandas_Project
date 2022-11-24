@@ -1,5 +1,4 @@
 # Modules that will be used
-from tkinter import END
 from tkinter.ttk import *
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -59,7 +58,6 @@ class Graphs():
         ax.set_xticks(x)
         _ = ax.set_xticklabels(newDF.values())
         plt.title(options.get())
-        plt.xlabel('Montos de los pedidos')
         plt.show()
         
     def thirdGraph(self, options, df):
@@ -114,7 +112,7 @@ class Graphs():
         ax.set_xticks(x)
         _ = ax.set_xticklabels(newDF.keys())
         plt.title(options.get())
-        plt.xlabel('Clients')
+        plt.xlabel('Clientes')
         plt.ylabel("Compras")
         plt.show()
 
